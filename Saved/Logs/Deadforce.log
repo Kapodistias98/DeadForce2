@@ -1,0 +1,1715 @@
+﻿Log file open, 11/07/17 13:10:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Deadforce
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1235795702) SRandInit(1235795702).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.203899
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.07-13.10.28:856][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.07-13.10.28:856][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.07-13.10.28:937][  0]LogInit: Computer: W62194
+[2017.11.07-13.10.28:937][  0]LogInit: User: 3kapov20
+[2017.11.07-13.10.28:937][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.07-13.10.28:937][  0]LogInit: High frequency timer resolution =3.515629 MHz
+[2017.11.07-13.10.28:937][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.11.07-13.10.28:937][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.07-13.10.28:937][  0]LogMemory: Process Physical Memory: 279.30 MB used, 279.30 MB peak
+[2017.11.07-13.10.28:937][  0]LogMemory: Process Virtual Memory: 282.27 MB used, 282.27 MB peak
+[2017.11.07-13.10.28:937][  0]LogMemory: Physical Memory: 4197.95 MB used,  12104.20 MB free, 16302.15 MB total
+[2017.11.07-13.10.28:937][  0]LogMemory: Virtual Memory: 677.59 MB used,  12104.20 MB free, 134217728.00 MB total
+[2017.11.07-13.10.29:615][  0]LogInit: Using OS detected language (en-US).
+[2017.11.07-13.10.29:615][  0]LogInit: Using OS detected locale (en-GB).
+[2017.11.07-13.10.29:756][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.07-13.10.32:390][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.07-13.10.32:464][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 660' (Feature Level 11_0)
+[2017.11.07-13.10.32:464][  0]LogD3D11RHI:       1506/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.11.07-13.10.32:466][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.07-13.10.32:466][  0]LogD3D11RHI:       0/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.07-13.10.32:466][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.07-13.10.32:472][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.07-13.10.32:473][  0]LogD3D11RHI:     GPU DeviceId: 0x1185 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.07-13.10.32:473][  0]LogWindows: EnumDisplayDevices:
+[2017.11.07-13.10.32:473][  0]LogWindows:    0. 'NVIDIA GeForce GTX 660' (P:1 D:1)
+[2017.11.07-13.10.32:473][  0]LogWindows:    1. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2017.11.07-13.10.32:473][  0]LogWindows:    2. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2017.11.07-13.10.32:474][  0]LogWindows:    3. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2017.11.07-13.10.32:474][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.11.07-13.10.32:474][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 660
+[2017.11.07-13.10.32:474][  0]LogD3D11RHI:   Driver Version: 385.41 (internal:22.21.13.8541, unified:385.41)
+[2017.11.07-13.10.32:474][  0]LogD3D11RHI:      Driver Date: 8-21-2017
+[2017.11.07-13.10.32:474][  0]LogRHI: Texture pool is 1054 MB (70% of 1506 MB)
+[2017.11.07-13.10.32:500][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.07-13.10.32:517][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.11.07-13.10.32:518][  0]LogShaderCompilers: Guid format shader working directory is 23 characters bigger than the processId version (E:/Deadforce 4.17 Vasilis/Intermediate/Shaders/WorkingDirectory/11876/).
+[2017.11.07-13.10.32:518][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/3kapov20/AppData/Local/Temp/UnrealShaderWorkingDir/B973A8454FA070C7E477C198C825810D/'.
+[2017.11.07-13.10.32:518][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.07-13.10.35:478][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.07-13.10.35:630][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.07-13.10.35:784][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.07-13.10.35:950][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.07-13.10.36:117][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.07-13.10.36:355][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.07-13.10.36:512][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.07-13.10.36:669][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.07-13.10.36:932][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.07-13.10.37:193][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.07-13.10.37:369][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.07-13.10.37:535][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.07-13.10.37:693][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.07-13.10.37:877][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.07-13.10.38:042][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.07-13.10.38:374][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.07-13.10.38:374][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.07-13.10.38:554][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.07-13.10.38:937][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.07-13.10.39:110][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.07-13.10.39:277][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.07-13.10.39:610][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.07-13.10.39:861][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.07-13.10.40:082][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.07-13.10.40:082][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.07-13.10.42:721][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.07-13.10.42:721][  0]LogDerivedDataCache: Display: Starting with empty Boot cache
+[2017.11.07-13.10.42:722][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Deadforce 4.17 Vasilis/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.07-13.10.42:722][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.07-13.10.42:722][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Deadforce 4.17 Vasilis/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.07-13.10.42:722][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.07-13.10.43:087][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.07-13.10.43:101][  0]LogDerivedDataCache: Using Local data cache path C:/Users/3kapov20/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.07-13.10.43:152][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.07-13.10.43:152][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.07-13.10.43:182][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.07-13.10.43:182][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.07-13.10.45:107][  0]LogAssetRegistry: FAssetRegistry took 0.0317 seconds to start up
+[2017.11.07-13.10.45:637][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.07-13.10.52:038][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.07-13.10.52:182][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.07-13.10.52:182][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.07-13.10.52:182][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.07-13.10.52:182][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.07-13.10.52:182][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.07-13.10.52:523][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.07-13.10.58:038][  0]LogNetVersion: Deadforce , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 685051680)
+[2017.11.07-13.10.59:656][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.160998 seconds
+[2017.11.07-13.10.59:662][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.07-13.10.59:662][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.11.07-13.10.59:662][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.07-13.10.59:932][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.07-13.11.26:512][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.07-13.11.26:637][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.07-13.11.29:407][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.07-13.11.32:928][  0]SourceControl: Source control is disabled
+[2017.11.07-13.11.32:928][  0]SourceControl: Source control is disabled
+[2017.11.07-13.11.33:106][  0]SourceControl: Source control is disabled
+[2017.11.07-13.11.33:293][  0]SourceControl: Source control is disabled
+[2017.11.07-13.11.35:701][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.07-13.11.36:596][  0]LogOcInput: OculusInput pre-init called
+[2017.11.07-13.11.37:496][  0]LogEngine: Initializing Engine...
+[2017.11.07-13.11.37:498][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.07-13.11.38:152][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.07-13.11.38:152][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.07-13.11.38:653][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.07-13.11.38:661][  0]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-13.11.38:769][  0]LogInit: FAudioDevice initialized.
+[2017.11.07-13.11.38:948][  0]LogDerivedDataCache: Saved boot cache 0.18s 93MB C:/Users/3kapov20/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.07-13.11.38:960][  0]LogInit: Texture streaming: Enabled
+[2017.11.07-13.11.39:917][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.07-13.11.41:898][  0]LogInit: Transaction tracking system initialized
+[2017.11.07-13.11.43:039][  0]BlueprintLog: New page: Editor Load
+[2017.11.07-13.11.46:450][  0]LocalizationService: Localization service is disabled
+[2017.11.07-13.11.49:342][  0]LogConsoleResponse: Display: 
+[2017.11.07-13.11.50:571][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.07-13.11.50:571][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.07-13.11.50:571][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.07-13.11.51:230][  0]LogFileCache: Scanning file cache for directory 'E:/Deadforce 4.17 Vasilis/Content/' took 0.02s
+[2017.11.07-13.11.58:014][  0]SourceControl: Source control is disabled
+[2017.11.07-13.11.58:014][  0]Cmd: MAP LOAD FILE="E:/Deadforce 4.17 Vasilis/Content/Maps/DemoMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.07-13.11.58:025][  0]LightingResults: New page: Lighting Build
+[2017.11.07-13.11.58:350][  0]MapCheck: New page: Map Check
+[2017.11.07-13.11.58:350][  0]LightingResults: New page: Lighting Build
+[2017.11.07-13.12.02:785][  0]LogClass: Warning: Enum '/Game/Characters/EnemyCharacters/AI/CombatType_ENUM.CombatType_ENUM' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2017.11.07-13.12.03:542][  0]LogClass: Warning: Enum '/Game/Characters/EnemyCharacters/AI/CombatStatus_ENUM.CombatStatus_ENUM' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2017.11.07-13.12.05:918][  0]LogTexture: Display: Building textures: T_SmokeRibbon_01 (AutoDXT, 128X64)
+[2017.11.07-13.12.05:918][  0]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2017.11.07-13.12.05:918][  0]LogTexture: Display: Building textures: T_Ember_01 (AutoDXT, 256X256)
+[2017.11.07-13.12.05:918][  0]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2017.11.07-13.12.05:918][  0]LogTexture: Display: Building textures: T_Darkness_AssaultRifleColor_M (AutoDXT, 2048X2048)
+[2017.11.07-13.12.05:918][  0]LogTexture: Display: Building textures: DissolveTexture_D (AutoDXT, 1024X1024)
+[2017.11.07-13.12.05:918][  0]LogTexture: Display: Building textures: T_FrameClamp (AutoDXT, 256X256)
+[2017.11.07-13.12.05:918][  0]LogTexture: Display: Building textures: T_Darkness_AssaultRifle_Masks (AutoDXT, 2048X2048)
+[2017.11.07-13.12.05:918][  0]LogTexture: Display: Building textures: T_GlowSphere_01 (AutoDXT, 512X512)
+[2017.11.07-13.12.05:918][  0]LogTexture: Display: Building textures: T_Darkness_AssaultRifle_N (BC5, 2048X2048)
+[2017.11.07-13.12.05:918][  0]LogTexture: Display: Building textures: T_DistortionCrystals_Mask_01 (AutoDXT, 1024X1024)
+[2017.11.07-13.12.05:984][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/EnemyAnimations/Enemy_WalkFwdLoop.Enemy_WalkFwdLoop
+[2017.11.07-13.12.06:008][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/EnemyAnimations/Enemy_WalkBwdLoop.Enemy_WalkBwdLoop
+[2017.11.07-13.12.06:014][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/EnemyAnimations/Enemy_StrafeRunRightLoop.Enemy_StrafeRunRightLoop
+[2017.11.07-13.12.06:338][  0]LogTexture: Display: Building textures: T_Darkness_AssaultRifle_D (AutoDXT, 2048X2048)
+[2017.11.07-13.12.06:338][  0]LogTexture: Display: Building textures: T_DistortionCrystals_01 (BC5, 1024X1024)
+[2017.11.07-13.12.06:338][  0]LogTexture: Display: Building textures: T_Plasma_A_01 (AutoDXT, 4096X1024)
+[2017.11.07-13.12.12:426][  0]LogTexture: Display: Building textures: T_Explosion_8x8_Erode_01 (AutoDXT, 2048X2048)
+[2017.11.07-13.12.12:426][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2017.11.07-13.12.12:426][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 8X8)
+[2017.11.07-13.12.12:426][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2017.11.07-13.12.12:426][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 8X8)
+[2017.11.07-13.12.12:426][  0]LogTexture: Display: Building textures: T_Explosion_Density_A_01 (AutoDXT, 4096X4096)
+[2017.11.07-13.12.12:426][  0]LogTexture: Display: Building textures: T_Explosion_Density_A_Normals_01 (BC5, 2048X2048)
+[2017.11.07-13.12.12:426][  0]LogTexture: Display: Building textures: T_Explosion_Heat_A_01 (AutoDXT, 4096X4096)
+[2017.11.07-13.12.12:426][  0]LogTexture: Display: Building textures: T_RockSmall_01 (AutoDXT, 128X128)
+[2017.11.07-13.12.12:426][  0]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2017.11.07-13.12.12:426][  0]LogTexture: Display: Building textures: T_Debris_Tileable_01 (AutoDXT, 512X512)
+[2017.11.07-13.12.12:426][  0]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2017.11.07-13.12.12:426][  0]LogTexture: Display: Building textures: T_Shockwave_NormalMap_01 (BC5, 512X512)
+[2017.11.07-13.12.12:426][  0]LogTexture: Display: Building textures: T_LightRay_01 (AutoDXT, 32X512)
+[2017.11.07-13.12.12:426][  0]LogTexture: Display: Building textures: T_ShockwaveGlow_01 (AutoDXT, 32X256)
+[2017.11.07-13.12.12:426][  0]LogTexture: Display: Building textures: T_Sparks_02 (AutoDXT, 128X512)
+[2017.11.07-13.12.12:426][  0]LogTexture: Display: Building textures: T_Pistol_Streaks_01 (AutoDXT, 32X128)
+[2017.11.07-13.12.12:426][  0]LogTexture: Display: Building textures: T_AssaultRifle_MuzzleFlashes_01 (AutoDXT, 512X512)
+[2017.11.07-13.12.12:426][  0]LogTexture: Display: Building textures: T_Plasma_Detail_01 (AutoDXT, 1024X1024)
+[2017.11.07-13.12.12:426][  0]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2017.11.07-13.12.12:426][  0]LogTexture: Display: Building textures: T_PlasmaMask_01 (AutoDXT, 1024X1024)
+[2017.11.07-13.12.12:426][  0]LogTexture: Display: Building textures: T_NoiseMask_01 (AutoDXT, 1024X1024)
+[2017.11.07-13.12.12:426][  0]LogTexture: Display: Building textures: T_Plasma_B_01 (AutoDXT, 8192X2048)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: T_SparkImpacts_2x2_01 (AutoDXT, 512X512)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: T_Spherical_NormalMap_01 (BC5, 1024X1024)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: T_Smoke_8x8_B_01 (AutoDXT, 2048X2048)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_N (BC5, 512X512)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_D (DXT1, 512X512)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: T_Darkness_Pistol_N (BC5, 1024X1024)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: T_Darkness_pistol_Masks (AutoDXT, 1024X1024)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: T_Darkness_Pistol_D (AutoDXT, 1024X1024)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: T_Darkness_pistol_Color_M (AutoDXT, 1024X1024)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: T_Pistol_MuzzleFlashes_4x1_A (AutoDXT, 1024X512)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: UE4Man_Logo_N (BC5, 512X512)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: UE4_Mannequin_occlusion_Mobile (DXT1, 512X512)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: UE4_Mannequin_MAT_MASKA (AutoDXT, 1024X1024)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: T_ML_Aluminum01_N (BC5, 512X512)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: T_ML_Aluminum01 (DXT1, 512X512)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: UE4_Mannequin__normals (BC5, 2048X2048)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: T_Darkness_Shotgun_N (BC5, 2048X2048)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: T_Darkness_Shotgun_Masks (AutoDXT, 2048X2048)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: T_Darkness_Shotgun_D (AutoDXT, 2048X2048)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: T_Darkness_Shotgun_ColorM (AutoDXT, 2048X2048)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: T_Darkness_SniperRifleColor_M (AutoDXT, 2048X2048)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: T_Darkness_SniperRifle_N (BC5, 2048X2048)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: T_Darkness_SniperRifle_Masks (AutoDXT, 2048X2048)
+[2017.11.07-13.12.37:200][  0]LogTexture: Display: Building textures: T_Darkness_SniperRifle_D (AutoDXT, 2048X2048)
+[2017.11.07-13.12.37:200][  0]LogMaterial: Missing cached shader map for material M_Plasma_01, compiling. 
+[2017.11.07-13.12.37:252][  0]LogStaticMesh: Building static mesh St_Tracer_B...
+[2017.11.07-13.12.37:259][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Weapons/FX/Meshes/St_Tracer_B.St_Tracer_B
+[2017.11.07-13.12.37:264][  0]LogMaterial: Missing cached shader map for material M_Tracer_A, compiling. 
+[2017.11.07-13.12.37:297][  0]LogMaterial: Missing cached shader map for material M_SmokeRibbon_01, compiling. 
+[2017.11.07-13.12.37:450][  0]LogMaterial: Missing cached shader map for material M_Smoke_8x8_B_01, compiling. 
+[2017.11.07-13.12.37:502][  0]LogMaterial: Missing cached shader map for material M_Ember_Speed_01, compiling. 
+[2017.11.07-13.12.37:525][  0]LogMaterial: Missing cached shader map for material M_Pistol_Streaks_01, compiling. 
+[2017.11.07-13.12.37:548][  0]LogMaterial: Missing cached shader map for material M_SparksImpact_2x2_01, compiling. 
+[2017.11.07-13.12.37:597][  0]LogMaterial: Missing cached shader map for material M_WeaponMaster_Em, compiling. 
+[2017.11.07-13.12.37:753][  0]LogMaterial: Missing cached shader map for material M_WeaponMaster_Em, compiling. 
+[2017.11.07-13.12.37:914][  0]LogMaterial: Missing cached shader map for material M_Pop_01, compiling. 
+[2017.11.07-13.12.37:940][  0]LogMaterial: Missing cached shader map for material M_CrystalRefraction_01, compiling. 
+[2017.11.07-13.12.37:968][  0]LogStaticMesh: Building static mesh St_Shockwave_01...
+[2017.11.07-13.12.37:980][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Weapons/FX/Meshes/St_Shockwave_01.St_Shockwave_01
+[2017.11.07-13.12.37:987][  0]LogStaticMesh: Building static mesh BombMesh...
+[2017.11.07-13.12.37:993][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Weapons/Weapons/BombMesh.BombMesh
+[2017.11.07-13.12.37:997][  0]LogMaterial: Missing cached shader map for material M_Debris_Tileable_01, compiling. 
+[2017.11.07-13.12.38:058][  0]LogMaterial: Missing cached shader map for material M_RockSmall_01, compiling. 
+[2017.11.07-13.12.38:088][  0]LogMaterial: Missing cached shader map for material M_LightRay_01, compiling. 
+[2017.11.07-13.12.38:116][  0]LogMaterial: Missing cached shader map for material M_Shockwave_Refraction_01, compiling. 
+[2017.11.07-13.12.38:155][  0]LogMaterial: Missing cached shader map for material M_Explosion_8x8_A_01, compiling. 
+[2017.11.07-13.12.38:229][  0]LogMaterial: Missing cached shader map for material M_Explosion_8x8_A_01, compiling. 
+[2017.11.07-13.12.38:314][  0]LogMaterial: Missing cached shader map for material M_Shockwave_01, compiling. 
+[2017.11.07-13.12.38:405][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave CountdownTimer...
+[2017.11.07-13.12.38:554][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/Rifle_StrafeLeft135Loop.Rifle_StrafeLeft135Loop
+[2017.11.07-13.12.38:559][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/Rifle_RunFwdLoop.Rifle_RunFwdLoop
+[2017.11.07-13.12.38:568][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/Rifle_RunBwdLoop.Rifle_RunBwdLoop
+[2017.11.07-13.12.38:575][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/Rifle_StrafeRightLoop.Rifle_StrafeRightLoop
+[2017.11.07-13.12.38:582][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/Rifle_StrafeLeftLoop.Rifle_StrafeLeftLoop
+[2017.11.07-13.12.38:589][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/Rifle_SprintStop_LU.Rifle_SprintStop_LU
+[2017.11.07-13.12.38:606][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/Rifle_SprintStart.Rifle_SprintStart
+[2017.11.07-13.12.38:613][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/Rifle_SprintLoop.Rifle_SprintLoop
+[2017.11.07-13.12.38:619][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/Rifle_Melee_Kick.Rifle_Melee_Kick
+[2017.11.07-13.12.38:632][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/Rifle_FallingLoop.Rifle_FallingLoop
+[2017.11.07-13.12.38:655][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/Rifle_Death.Rifle_Death
+[2017.11.07-13.12.38:681][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/CoverLo_WalkR.CoverLo_WalkR
+[2017.11.07-13.12.38:688][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/CoverLo_WalkL.CoverLo_WalkL
+[2017.11.07-13.12.38:697][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/CoverLo_Idle2CoverL.CoverLo_Idle2CoverL
+[2017.11.07-13.12.38:718][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/CoverLo_CoverR2CoverL.CoverLo_CoverR2CoverL
+[2017.11.07-13.12.38:733][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/CoverLo_CoverR2AimU.CoverLo_CoverR2AimU
+[2017.11.07-13.12.38:739][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/CoverLo_CoverL2Idle.CoverLo_CoverL2Idle
+[2017.11.07-13.12.38:749][  0]LogStaticMesh: Building static mesh St_AssualtRifle_Core_01...
+[2017.11.07-13.12.38:758][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Weapons/FX/Meshes/St_AssualtRifle_Core_01.St_AssualtRifle_Core_01
+[2017.11.07-13.12.38:762][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/Cover_Aim_to_Idle.Cover_Aim_to_Idle
+[2017.11.07-13.12.38:763][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/CoverLo_CoverL2CoverR.CoverLo_CoverL2CoverR
+[2017.11.07-13.12.38:781][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/CoverLo_CoverL2AimU.CoverLo_CoverL2AimU
+[2017.11.07-13.12.38:791][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/CoverLo_CoverL.CoverLo_CoverL
+[2017.11.07-13.12.38:797][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/CoverLo_AimU2CoverR.CoverLo_AimU2CoverR
+[2017.11.07-13.12.38:805][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/CoverLo_AimU2CoverL.CoverLo_AimU2CoverL
+[2017.11.07-13.12.38:811][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/CoverLo_AimU.CoverLo_AimU
+[2017.11.07-13.12.38:908][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/Rifle_Idle.Rifle_Idle
+[2017.11.07-13.12.38:909][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/AimOffsets/Aim_CC.Aim_CC
+[2017.11.07-13.12.38:924][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/AimOffsets/Aim_LU.Aim_LU
+[2017.11.07-13.12.38:925][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/AimOffsets/Aim_RD.Aim_RD
+[2017.11.07-13.12.38:926][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/AimOffsets/Aim_R.Aim_R
+[2017.11.07-13.12.38:927][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/AimOffsets/Aim_U.Aim_U
+[2017.11.07-13.12.38:928][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/AimOffsets/Aim_RU.Aim_RU
+[2017.11.07-13.12.38:929][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/AimOffsets/Aim_D.Aim_D
+[2017.11.07-13.12.38:930][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/AimOffsets/Aim_LD.Aim_LD
+[2017.11.07-13.12.38:931][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/AimOffsets/Aim_L.Aim_L
+[2017.11.07-13.12.39:250][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/EnemyAnimations/Enemy_StrafeRunLeftLoop.Enemy_StrafeRunLeftLoop
+[2017.11.07-13.12.39:257][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/EnemyAnimations/Enemy_StrafeRun45RightLoop.Enemy_StrafeRun45RightLoop
+[2017.11.07-13.12.39:264][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/EnemyAnimations/Enemy_StrafeRun45LeftLoop.Enemy_StrafeRun45LeftLoop
+[2017.11.07-13.12.39:274][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/EnemyAnimations/Enemy_StrafeRun135RightLoop.Enemy_StrafeRun135RightLoop
+[2017.11.07-13.12.39:277][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/EnemyAnimations/Enemy_StrafeRun135LeftLoop.Enemy_StrafeRun135LeftLoop
+[2017.11.07-13.12.39:281][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/EnemyAnimations/Enemy_StrafeRightLoop.Enemy_StrafeRightLoop
+[2017.11.07-13.12.39:289][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/EnemyAnimations/Enemy_StrafeRight45Loop.Enemy_StrafeRight45Loop
+[2017.11.07-13.12.39:293][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/EnemyAnimations/Enemy_StrafeRight135Loop.Enemy_StrafeRight135Loop
+[2017.11.07-13.12.39:297][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/EnemyAnimations/Enemy_StrafeLeftLoop.Enemy_StrafeLeftLoop
+[2017.11.07-13.12.39:303][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/EnemyAnimations/Enemy_StrafeLeft45Loop.Enemy_StrafeLeft45Loop
+[2017.11.07-13.12.39:310][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/EnemyAnimations/Enemy_StrafeLeft135Loop.Enemy_StrafeLeft135Loop
+[2017.11.07-13.12.39:315][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/EnemyAnimations/Enemy_RunFwdLoop.Enemy_RunFwdLoop
+[2017.11.07-13.12.39:322][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/EnemyAnimations/Enemy_RunBwdLoop.Enemy_RunBwdLoop
+[2017.11.07-13.12.39:329][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/CoverLo_Idle2CoverR.CoverLo_Idle2CoverR
+[2017.11.07-13.12.39:342][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/CoverLo_CoverR2Idle.CoverLo_CoverR2Idle
+[2017.11.07-13.12.39:347][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/CoverLo_CoverR.CoverLo_CoverR
+[2017.11.07-13.12.39:352][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/EnemyAnimations/Enemy_Idle.Enemy_Idle
+[2017.11.07-13.12.39:561][  0]LogMaterial: Missing cached shader map for material M_AssualtRifle_Core_01, compiling. 
+[2017.11.07-13.12.39:612][  0]LogMaterial: Missing cached shader map for material M_AssaultRifle_MuzzleFlash_4x1, compiling. 
+[2017.11.07-13.12.39:645][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Weapons/Weapons/Anims/Fire_Rifle_W.Fire_Rifle_W
+[2017.11.07-13.12.39:762][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/Rifle_StrafeRun45LeftLoop.Rifle_StrafeRun45LeftLoop
+[2017.11.07-13.12.39:772][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/Rifle_StrafeRun135RightLoop.Rifle_StrafeRun135RightLoop
+[2017.11.07-13.12.39:775][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/Rifle_StrafeRun135LeftLoop.Rifle_StrafeRun135LeftLoop
+[2017.11.07-13.12.39:779][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/Rifle_StrafeRight45Loop.Rifle_StrafeRight45Loop
+[2017.11.07-13.12.39:783][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/Rifle_StrafeRight135Loop.Rifle_StrafeRight135Loop
+[2017.11.07-13.12.39:787][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/Rifle_StrafeLeft45Loop.Rifle_StrafeLeft45Loop
+[2017.11.07-13.12.39:794][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/Rifle_WalkFwdLoop.Rifle_WalkFwdLoop
+[2017.11.07-13.12.39:802][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/Rifle_WalkBwdLoop.Rifle_WalkBwdLoop
+[2017.11.07-13.12.39:807][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/Rifle_StrafeRunRightLoop.Rifle_StrafeRunRightLoop
+[2017.11.07-13.12.39:815][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/Rifle_StrafeRunLeftLoop.Rifle_StrafeRunLeftLoop
+[2017.11.07-13.12.39:822][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Animations/RootMotion/Rifle_StrafeRun45RightLoop.Rifle_StrafeRun45RightLoop
+[2017.11.07-13.12.39:849][  0]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2017.11.07-13.12.40:321][  0]LogMaterial: Missing cached shader map for material M_Pistol_MuzzleFlash_4x1_A, compiling. 
+[2017.11.07-13.12.40:354][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Weapons/Weapons/Anims/Fire_SniperRifle_W.Fire_SniperRifle_W
+[2017.11.07-13.12.40:392][  0]LogMaterial: Missing cached shader map for material M_Tracer_B, compiling. 
+[2017.11.07-13.12.40:421][  0]LogStaticMesh: Building static mesh St_Tracer_A...
+[2017.11.07-13.12.40:432][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Weapons/FX/Meshes/St_Tracer_A.St_Tracer_A
+[2017.11.07-13.12.40:736][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Weapons/Weapons/Anims/Fire_Shotgun_W.Fire_Shotgun_W
+[2017.11.07-13.12.40:865][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Weapons/Weapons/Anims/Fire_Pistol_W.Fire_Pistol_W
+[2017.11.07-13.12.40:886][  0]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2017.11.07-13.12.41:158][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave RifleA_Fire_Dist06...
+[2017.11.07-13.12.41:185][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave RifleA_Fire_Dist05...
+[2017.11.07-13.12.41:210][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave RifleA_Fire05...
+[2017.11.07-13.12.41:247][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave RifleA_Fire04...
+[2017.11.07-13.12.41:290][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave RifleA_Fire03...
+[2017.11.07-13.12.41:331][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave RifleA_Fire02...
+[2017.11.07-13.12.41:368][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave RifleA_Fire01...
+[2017.11.07-13.12.41:411][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave PistolA_Fire02...
+[2017.11.07-13.12.41:454][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave PistolA_Fire01...
+[2017.11.07-13.12.41:501][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave LaserShot_FX...
+[2017.11.07-13.12.41:558][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave Knife_ImpactSurface02...
+[2017.11.07-13.12.41:572][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave Knife_ImpactSurface01...
+[2017.11.07-13.12.41:586][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave Knife_ImpactSurface03...
+[2017.11.07-13.12.41:600][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave Shotgun_ImpactSurface01...
+[2017.11.07-13.12.41:619][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave Shotgun_ImpactSurface02...
+[2017.11.07-13.12.41:637][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave Shotgun_ImpactSurface03...
+[2017.11.07-13.12.41:662][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave Shotgun_ImpactSurface04...
+[2017.11.07-13.12.41:674][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave ShotgunA_Fire01...
+[2017.11.07-13.12.41:747][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave ShotgunA_Fire02...
+[2017.11.07-13.12.41:826][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave ShotgunA_Fire03...
+[2017.11.07-13.12.41:909][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave ShotgunA_Fire04...
+[2017.11.07-13.12.42:002][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave ShotgunA_Fire_Dist01...
+[2017.11.07-13.12.42:038][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave SniperRifleA_Fire_Dist02...
+[2017.11.07-13.12.42:093][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave SniperRifleA_Fire_Dist01...
+[2017.11.07-13.12.42:132][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave SniperRifleA_Fire04...
+[2017.11.07-13.12.42:229][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave SniperRifleA_Fire03...
+[2017.11.07-13.12.42:325][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave SniperRifleA_Fire02...
+[2017.11.07-13.12.42:421][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave SniperRifleA_Fire01...
+[2017.11.07-13.12.42:489][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave SniperRifleA_Fire_Dist03...
+[2017.11.07-13.12.42:540][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave SniperRifleA_Fire_Dist04...
+[2017.11.07-13.12.42:591][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave PistolA_Fire_Dist06...
+[2017.11.07-13.12.42:612][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave PistolA_Fire_Dist05...
+[2017.11.07-13.12.42:638][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave PistolA_Fire_Dist04...
+[2017.11.07-13.12.42:662][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave PistolA_Fire_Dist03...
+[2017.11.07-13.12.42:688][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave PistolA_Fire_Dist02...
+[2017.11.07-13.12.42:712][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave PistolA_Fire_Dist01...
+[2017.11.07-13.12.42:739][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave PistolA_Fire06...
+[2017.11.07-13.12.42:782][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave PistolA_Fire05...
+[2017.11.07-13.12.42:826][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave PistolA_Fire04...
+[2017.11.07-13.12.42:866][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave PistolA_Fire03...
+[2017.11.07-13.12.42:899][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave RocketLauncher_Explosion04...
+[2017.11.07-13.12.42:950][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave RocketLauncher_Explosion03...
+[2017.11.07-13.12.43:015][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave RocketLauncher_Explosion02...
+[2017.11.07-13.12.43:077][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave RocketLauncher_Explosion01...
+[2017.11.07-13.12.43:119][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave RocketLauncher_Explosion05...
+[2017.11.07-13.12.43:177][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave Shotgun_Reload03...
+[2017.11.07-13.12.43:208][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave Shotgun_Reload02...
+[2017.11.07-13.12.43:234][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave Shotgun_Reload01...
+[2017.11.07-13.12.43:258][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave ShotgunA_Fire_Dist04...
+[2017.11.07-13.12.43:306][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave ShotgunA_Fire_Dist03...
+[2017.11.07-13.12.43:353][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave ShotgunA_Fire_Dist02...
+[2017.11.07-13.12.43:398][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave MaleHurt02...
+[2017.11.07-13.12.43:427][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave MaleDeath_01...
+[2017.11.07-13.12.43:482][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave MaleHurt01...
+[2017.11.07-13.12.43:506][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave RifleA_Fire_Dist03...
+[2017.11.07-13.12.43:535][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave RifleA_Fire_Dist02...
+[2017.11.07-13.12.43:561][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave RifleA_Fire06...
+[2017.11.07-13.12.43:590][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave RifleA_Fire_Dist01...
+[2017.11.07-13.12.43:615][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave RifleA_Fire_Dist04...
+[2017.11.07-13.12.43:977][  0]LogAIModule: Creating AISystem for world DemoMap
+[2017.11.07-13.12.44:115][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.07-13.12.44:171][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.07-13.12.44:325][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 154.328ms to complete.
+[2017.11.07-13.12.44:325][  0]LogFileHelpers: Loading map 'DemoMap' took 46.310
+[2017.11.07-13.12.44:684][  0]LogCollectionManager: Loaded 0 collections in 0.003309 seconds
+[2017.11.07-13.12.44:941][  0]LogFileCache: Scanning file cache for directory 'E:/Deadforce 4.17 Vasilis/Saved/Collections/' took 0.01s
+[2017.11.07-13.12.44:941][  0]LogFileCache: Scanning file cache for directory 'E:/Deadforce 4.17 Vasilis/Content/Developers/3kapov20/Collections/' took 0.01s
+[2017.11.07-13.12.44:941][  0]LogFileCache: Scanning file cache for directory 'E:/Deadforce 4.17 Vasilis/Content/Collections/' took 0.01s
+[2017.11.07-13.12.44:941][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.07-13.12.44:960][  0]LogContentBrowser: Native class hierarchy populated in 0.0189 seconds. Added 2386 classes and 500 folders.
+[2017.11.07-13.12.45:316][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2017.11.07-13.12.46:045][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.11.07-13.12.46:285][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2017.11.07-13.12.46:328][  0]LogSlate: Took 0.012157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.07-13.12.46:334][  0]LogSlate: Took 0.003902 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.07-13.12.46:351][  0]LogSlate: Took 0.007822 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.07-13.12.46:638][  0]LogRenderer: Reallocating scene render targets to support 1208x652 Format 10 NumSamples 1 (Frame:1).
+[2017.11.07-13.12.47:216][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2017.11.07-13.12.47:217][  0]LogLoad: (Engine Initialization) Total time: 158.45 seconds
+[2017.11.07-13.12.47:217][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.07-13.12.47:217][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.11.07-13.12.47:217][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.11.07-13.12.47:602][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.07-13.12.47:698][  0]LogSlate: Took 0.001242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.07-13.12.48:564][  3]LogAssetRegistry: Asset discovery search completed in 123.4773 seconds
+[2017.11.07-13.12.48:569][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2017.11.07-13.12.48:569][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000131 seconds (updated 0 objects)
+[2017.11.07-13.12.55:121][ 96]LightingResults: New page: Lighting Build
+[2017.11.07-13.12.55:124][ 96]MapCheck: New page: Map Check
+[2017.11.07-13.12.55:124][ 96]LightingResults: New page: Lighting Build
+[2017.11.07-13.12.55:147][ 96]LogAIModule: Creating AISystem for world Untitled
+[2017.11.07-13.12.55:156][ 96]LoadErrors: New page: New Map
+[2017.11.07-13.13.17:566][  3]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.11.07-13.13.23:980][448]LogEditorViewport: Clicking Background
+[2017.11.07-13.13.41:537][756]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Deadforce
+[2017.11.07-13.13.41:538][756]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.11.07-13.13.41:538][756]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.17
+[2017.11.07-13.13.41:538][756]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.11.07-13.13.41:538][756]LogTemp: BranchPath = W62194/C/Program Files/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = W62194/C/Program Files/Epic Games/UE_4.17/Engine/Binaries
+[2017.11.07-13.13.41:538][756]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\3kapov20\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.11.07-13.13.59:545][854]LogTexture: Display: Building textures: AvatarUI (BGRA8, 512X222)
+[2017.11.07-13.13.59:546][854]LogMaterial: Missing cached shader map for material AvatarUI_Mat, compiling. 
+[2017.11.07-13.14.08:515][750]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.07-13.15.16:577][335]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.07-13.15.21:619][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="E:/Deadforce 4.17 Vasilis/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.07-13.15.21:664][335]LogSavePackage: Save=26.15ms
+[2017.11.07-13.15.21:664][335]LogSavePackage: Moving 'E:/Deadforce 4.17 Vasilis/Saved/UntitledACFD744442E0BAE5C970A4960B28BF67.tmp' to 'E:/Deadforce 4.17 Vasilis/Content/Untitled.umap'
+[2017.11.07-13.15.21:681][335]LogSavePackage: Display: Finished SavePackage E:/Deadforce 4.17 Vasilis/Content/Untitled.umap
+[2017.11.07-13.15.22:640][335]LogSlate: Took 0.000465 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.07-13.15.22:643][335]LogFileHelpers: Saving map 'Untitled' took 1.990
+[2017.11.07-13.15.56:862][394]LogEditorViewport: Clicking Background
+[2017.11.07-13.16.15:365][577]LogEditorViewport: Clicking Background
+[2017.11.07-13.16.22:603][413]LogEditorViewport: Clicking Background
+[2017.11.07-13.17.32:438][738]LogEditorViewport: Clicking Background
+[2017.11.07-13.18.16:370][988]LogEditorViewport: Clicking Background
+[2017.11.07-13.25.17:261][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="E:/Deadforce 4.17 Vasilis/Saved/Autosaves/Game/Untitled_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.07-13.25.17:315][966]LogSavePackage: Save=33.68ms
+[2017.11.07-13.25.17:315][966]LogSavePackage: Moving 'E:/Deadforce 4.17 Vasilis/Saved/Untitled_Auto1D883EF4F4207F24EE29B01B13AF170D6.tmp' to 'E:/Deadforce 4.17 Vasilis/Saved/Autosaves/Game/Untitled_Auto1.umap'
+[2017.11.07-13.25.17:318][966]LogSavePackage: Display: Finished SavePackage E:/Deadforce 4.17 Vasilis/Saved/Autosaves/Game/Untitled_Auto1.umap
+[2017.11.07-13.25.17:326][966]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Untitled' took 0.080
+[2017.11.07-13.25.17:326][966]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.080
+[2017.11.07-13.26.38:086][427]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.07-13.26.39:125][547]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.07-13.26.41:114][782]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.07-13.26.45:124][259]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.07-13.26.45:784][335]LogEditorViewport: Clicking Background
+[2017.11.07-13.26.46:379][405]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2017.11.07-13.26.47:611][548]Cmd: DELETE
+[2017.11.07-13.26.47:611][548]Cmd: ACTOR DELETE
+[2017.11.07-13.26.47:611][548]LogEditorActor: Deleted Actor: PlayerStart
+[2017.11.07-13.26.47:625][548]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2017.11.07-13.27.15:691][837]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.07-13.27.17:050][998]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.07-13.27.17:585][ 60]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.07-13.27.21:364][502]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-13.27.25:057][502]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-13.27.25:058][502]PIE: New page: PIE session: Untitled (7 Nov 2017 13:27:25)
+[2017.11.07-13.27.25:062][502]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2017.11.07-13.27.25:068][502]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005697s)
+[2017.11.07-13.27.25:070][502]LogAIModule: Creating AISystem for world Untitled
+[2017.11.07-13.27.25:070][502]LogPlayLevel: PIE: World Init took: (0.001966s)
+[2017.11.07-13.27.25:070][502]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.008248s)
+[2017.11.07-13.27.25:098][502]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-13.27.25:129][502]LogInit: FAudioDevice initialized.
+[2017.11.07-13.27.25:175][502]LogLoad: Game class is '3P_GameMode_C'
+[2017.11.07-13.27.25:178][502]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2017.11.07-13.27.25
+[2017.11.07-13.27.25:178][502]LogWorld: Bringing up level for play took: 0.000797
+[2017.11.07-13.27.25:326][502]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2017.11.07-13.27.25:327][502]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-13.27.25:327][502]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-13.27.25:327][502]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-13.27.25:331][502]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-13.27.25:331][502]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled -0.371
+[2017.11.07-13.27.25:348][502]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_0.GameplayWidget_C_0
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-13.27.25:348][502]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_0.GameplayWidget_C_0
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-13.27.25:349][502]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_0.GameplayWidget_C_0
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-13.27.25:349][502]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_0.GameplayWidget_C_0
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-13.27.26:941][677]Set new viewmode: Unlit
+[2017.11.07-13.28.11:865][742]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.07-13.28.34:043][267]LogEditorViewport: Clicking Background
+[2017.11.07-13.28.50:887][248]LogEditorViewport: Clicking Background
+[2017.11.07-13.29.26:010][369]LogEditorViewport: Clicking Background
+[2017.11.07-13.29.34:731][405]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.07-13.29.39:202][917]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.07-13.29.42:442][302]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.07-13.29.55:189][145]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-13.29.55:218][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-13.29.55:219][145]PIE: New page: PIE session: Untitled (7 Nov 2017 13:29:55)
+[2017.11.07-13.29.55:219][145]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2017.11.07-13.29.55:222][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002534s)
+[2017.11.07-13.29.55:223][145]LogAIModule: Creating AISystem for world Untitled
+[2017.11.07-13.29.55:223][145]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2017.11.07-13.29.55:223][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.003673s)
+[2017.11.07-13.29.55:237][145]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-13.29.55:261][145]LogInit: FAudioDevice initialized.
+[2017.11.07-13.29.55:301][145]LogLoad: Game class is '3P_GameMode_C'
+[2017.11.07-13.29.55:303][145]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2017.11.07-13.29.55
+[2017.11.07-13.29.55:303][145]LogWorld: Bringing up level for play took: 0.000795
+[2017.11.07-13.29.55:304][145]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-13.29.55:304][145]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-13.29.55:304][145]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-13.29.55:307][145]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-13.29.55:308][145]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled -0.397
+[2017.11.07-13.29.55:316][145]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_1.GameplayWidget_C_1
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-13.29.55:316][145]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_1.GameplayWidget_C_1
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-13.29.55:316][145]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_1.GameplayWidget_C_1
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-13.29.55:316][145]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_1.GameplayWidget_C_1
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-13.29.57:104][356]Set new viewmode: Unlit
+[2017.11.07-13.30.48:804][388]LogEditorViewport: Clicking Background
+[2017.11.07-13.31.12:269][ 99]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-13.31.12:302][ 99]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-13.31.12:302][ 99]PIE: New page: PIE session: Untitled (7 Nov 2017 13:31:12)
+[2017.11.07-13.31.12:304][ 99]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2017.11.07-13.31.12:315][ 99]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011286s)
+[2017.11.07-13.31.12:316][ 99]LogAIModule: Creating AISystem for world Untitled
+[2017.11.07-13.31.12:316][ 99]LogPlayLevel: PIE: World Init took: (0.001430s)
+[2017.11.07-13.31.12:317][ 99]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.013146s)
+[2017.11.07-13.31.12:331][ 99]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-13.31.12:375][ 99]LogInit: FAudioDevice initialized.
+[2017.11.07-13.31.12:410][ 99]LogLoad: Game class is '3P_GameMode_C'
+[2017.11.07-13.31.12:412][ 99]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2017.11.07-13.31.12
+[2017.11.07-13.31.12:412][ 99]LogWorld: Bringing up level for play took: 0.000798
+[2017.11.07-13.31.12:413][ 99]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-13.31.12:413][ 99]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-13.31.12:413][ 99]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-13.31.12:416][ 99]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-13.31.12:416][ 99]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled 0.711
+[2017.11.07-13.31.12:426][ 99]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_2.GameplayWidget_C_2
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-13.31.12:426][ 99]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_2.GameplayWidget_C_2
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-13.31.12:426][ 99]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_2.GameplayWidget_C_2
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-13.31.12:426][ 99]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_2.GameplayWidget_C_2
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-13.31.13:905][273]Set new viewmode: Unlit
+[2017.11.07-13.31.38:837][173]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.07-13.32.33:076][194]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.07-13.32.34:236][329]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.07-13.32.35:075][425]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.07-13.32.37:335][692]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.07-13.32.38:352][812]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-13.32.38:381][812]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-13.32.38:382][812]PIE: New page: PIE session: Untitled (7 Nov 2017 13:32:38)
+[2017.11.07-13.32.38:382][812]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2017.11.07-13.32.38:389][812]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006346s)
+[2017.11.07-13.32.38:389][812]LogAIModule: Creating AISystem for world Untitled
+[2017.11.07-13.32.38:389][812]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2017.11.07-13.32.38:390][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.007460s)
+[2017.11.07-13.32.38:403][812]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-13.32.38:421][812]LogInit: FAudioDevice initialized.
+[2017.11.07-13.32.38:449][812]LogLoad: Game class is '3P_GameMode_C'
+[2017.11.07-13.32.38:451][812]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2017.11.07-13.32.38
+[2017.11.07-13.32.38:451][812]LogWorld: Bringing up level for play took: 0.000887
+[2017.11.07-13.32.38:452][812]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-13.32.38:452][812]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-13.32.38:452][812]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-13.32.38:455][812]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-13.32.38:455][812]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled 0.748
+[2017.11.07-13.32.38:464][812]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_3.GameplayWidget_C_3
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-13.32.38:464][812]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_3.GameplayWidget_C_3
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-13.32.38:464][812]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_3.GameplayWidget_C_3
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-13.32.38:464][812]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_3.GameplayWidget_C_3
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-13.32.39:570][944]Set new viewmode: Unlit
+[2017.11.07-13.33.41:345][155]LogEditorViewport: Clicking Background
+[2017.11.07-13.34.25:953][384]Cmd: DELETE
+[2017.11.07-13.34.25:953][384]Cmd: ACTOR DELETE
+[2017.11.07-13.34.25:954][384]LogEditorActor: Deleted Actor: Brush
+[2017.11.07-13.34.25:954][384]LogEditorActor: Deleted Actor: Brush
+[2017.11.07-13.34.25:954][384]LogEditorActor: Deleted Actor: Brush
+[2017.11.07-13.34.25:954][384]LogEditorActor: Deleted Actor: Brush
+[2017.11.07-13.34.25:972][384]LogEditorActor: Deleted 4 Actors (0.018 secs)
+[2017.11.07-13.34.44:379][470]LogEditorViewport: Clicking Background
+[2017.11.07-13.35.07:234][ 71]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-13.35.07:264][ 71]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-13.35.07:264][ 71]PIE: New page: PIE session: Untitled (7 Nov 2017 13:35:07)
+[2017.11.07-13.35.07:265][ 71]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2017.11.07-13.35.07:273][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008003s)
+[2017.11.07-13.35.07:274][ 71]LogAIModule: Creating AISystem for world Untitled
+[2017.11.07-13.35.07:274][ 71]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2017.11.07-13.35.07:274][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.009142s)
+[2017.11.07-13.35.07:288][ 71]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-13.35.07:307][ 71]LogInit: FAudioDevice initialized.
+[2017.11.07-13.35.07:339][ 71]LogLoad: Game class is '3P_GameMode_C'
+[2017.11.07-13.35.07:340][ 71]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2017.11.07-13.35.07
+[2017.11.07-13.35.07:341][ 71]LogWorld: Bringing up level for play took: 0.001029
+[2017.11.07-13.35.07:341][ 71]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-13.35.07:341][ 71]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-13.35.07:341][ 71]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-13.35.07:345][ 71]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-13.35.07:345][ 71]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled -0.365
+[2017.11.07-13.35.07:366][ 71]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_4.GameplayWidget_C_4
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-13.35.07:366][ 71]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_4.GameplayWidget_C_4
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-13.35.07:367][ 71]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_4.GameplayWidget_C_4
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-13.35.07:367][ 71]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_4.GameplayWidget_C_4
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-13.35.08:721][230]Set new viewmode: Unlit
+[2017.11.07-13.39.42:502][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="E:/Deadforce 4.17 Vasilis/Saved/Autosaves/Game/Untitled_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.07-13.39.42:985][163]LogSavePackage: Save=441.83ms
+[2017.11.07-13.39.42:986][163]LogSavePackage: Moving 'E:/Deadforce 4.17 Vasilis/Saved/Untitled_Auto27D6AA4D444E72794697A24A9BE329295.tmp' to 'E:/Deadforce 4.17 Vasilis/Saved/Autosaves/Game/Untitled_Auto2.umap'
+[2017.11.07-13.39.43:839][163]LogSavePackage: Display: Finished SavePackage E:/Deadforce 4.17 Vasilis/Saved/Autosaves/Game/Untitled_Auto2.umap
+[2017.11.07-13.39.43:852][163]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Untitled' took 1.386
+[2017.11.07-13.39.43:852][163]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.386
+[2017.11.07-13.40.39:884][205]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-13.40.39:921][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-13.40.39:921][205]PIE: New page: PIE session: Untitled (7 Nov 2017 13:40:39)
+[2017.11.07-13.40.39:922][205]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2017.11.07-13.40.39:932][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010057s)
+[2017.11.07-13.40.39:932][205]LogAIModule: Creating AISystem for world Untitled
+[2017.11.07-13.40.39:933][205]LogPlayLevel: PIE: World Init took: (0.000862s)
+[2017.11.07-13.40.39:933][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.011225s)
+[2017.11.07-13.40.39:950][205]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-13.40.39:980][205]LogInit: FAudioDevice initialized.
+[2017.11.07-13.40.40:010][205]LogLoad: Game class is '3P_GameMode_C'
+[2017.11.07-13.40.40:012][205]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2017.11.07-13.40.40
+[2017.11.07-13.40.40:012][205]LogWorld: Bringing up level for play took: 0.001095
+[2017.11.07-13.40.40:013][205]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-13.40.40:013][205]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-13.40.40:013][205]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-13.40.40:016][205]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-13.40.40:016][205]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled 0.281
+[2017.11.07-13.40.40:026][205]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_5.GameplayWidget_C_5
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-13.40.40:026][205]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_5.GameplayWidget_C_5
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-13.40.40:026][205]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_5.GameplayWidget_C_5
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-13.40.40:026][205]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_5.GameplayWidget_C_5
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-13.40.41:423][370]Set new viewmode: Unlit
+[2017.11.07-13.42.47:642][115]LogEditorViewport: Clicking Background
+[2017.11.07-13.42.54:332][878]LogEditorViewport: Clicking Background
+[2017.11.07-13.43.06:560][332]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-13.43.06:589][332]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-13.43.06:590][332]PIE: New page: PIE session: Untitled (7 Nov 2017 13:43:06)
+[2017.11.07-13.43.06:590][332]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2017.11.07-13.43.06:601][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011009s)
+[2017.11.07-13.43.06:602][332]LogAIModule: Creating AISystem for world Untitled
+[2017.11.07-13.43.06:602][332]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2017.11.07-13.43.06:602][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.012167s)
+[2017.11.07-13.43.06:620][332]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-13.43.06:651][332]LogInit: FAudioDevice initialized.
+[2017.11.07-13.43.06:687][332]LogLoad: Game class is '3P_GameMode_C'
+[2017.11.07-13.43.06:689][332]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2017.11.07-13.43.06
+[2017.11.07-13.43.06:689][332]LogWorld: Bringing up level for play took: 0.001145
+[2017.11.07-13.43.06:690][332]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-13.43.06:690][332]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-13.43.06:690][332]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-13.43.06:693][332]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-13.43.06:693][332]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled 0.952
+[2017.11.07-13.43.06:712][332]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_6.GameplayWidget_C_6
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-13.43.06:712][332]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_6.GameplayWidget_C_6
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-13.43.06:712][332]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_6.GameplayWidget_C_6
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-13.43.06:713][332]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_6.GameplayWidget_C_6
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-13.43.08:038][487]Set new viewmode: Unlit
+[2017.11.07-13.44.05:730][200]LogEditorViewport: Clicking Background
+[2017.11.07-13.47.12:084][994]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-13.47.12:153][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-13.47.12:153][994]PIE: New page: PIE session: Untitled (7 Nov 2017 13:47:12)
+[2017.11.07-13.47.12:155][994]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2017.11.07-13.47.12:187][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031680s)
+[2017.11.07-13.47.12:188][994]LogAIModule: Creating AISystem for world Untitled
+[2017.11.07-13.47.12:188][994]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2017.11.07-13.47.12:188][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.032922s)
+[2017.11.07-13.47.12:222][994]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-13.47.12:268][994]LogInit: FAudioDevice initialized.
+[2017.11.07-13.47.12:312][994]LogLoad: Game class is '3P_GameMode_C'
+[2017.11.07-13.47.12:316][994]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2017.11.07-13.47.12
+[2017.11.07-13.47.12:317][994]LogWorld: Bringing up level for play took: 0.003129
+[2017.11.07-13.47.12:319][994]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-13.47.12:320][994]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-13.47.12:320][994]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-13.47.12:329][994]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-13.47.12:329][994]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled 0.582
+[2017.11.07-13.47.12:337][994]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_7.GameplayWidget_C_7
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-13.47.12:337][994]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_7.GameplayWidget_C_7
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-13.47.12:337][994]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_7.GameplayWidget_C_7
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-13.47.12:338][994]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_7.GameplayWidget_C_7
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-13.47.13:478][126]Set new viewmode: Unlit
+[2017.11.07-13.47.53:734][860]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.07-13.48.55:289][668]Cmd: SELECT NONE
+[2017.11.07-13.50.40:090][590]Cmd: SELECT NONE
+[2017.11.07-13.51.00:017][890]Cmd: DELETE
+[2017.11.07-13.51.00:018][890]Cmd: ACTOR DELETE
+[2017.11.07-13.51.00:019][890]LogEditorActor: Deleted Actor: Brush
+[2017.11.07-13.51.00:065][890]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2017.11.07-13.51.31:826][569]Cmd: DELETE
+[2017.11.07-13.51.31:826][569]Cmd: ACTOR DELETE
+[2017.11.07-13.51.31:827][569]LogEditorActor: Deleted Actor: Brush
+[2017.11.07-13.51.31:871][569]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2017.11.07-13.52.40:641][234]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush135)
+[2017.11.07-13.52.48:679][119]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-13.52.48:706][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-13.52.48:707][119]PIE: New page: PIE session: Untitled (7 Nov 2017 13:52:48)
+[2017.11.07-13.52.48:707][119]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2017.11.07-13.52.48:729][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021805s)
+[2017.11.07-13.52.48:730][119]LogAIModule: Creating AISystem for world Untitled
+[2017.11.07-13.52.48:730][119]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2017.11.07-13.52.48:730][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.022979s)
+[2017.11.07-13.52.48:775][119]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-13.52.48:812][119]LogInit: FAudioDevice initialized.
+[2017.11.07-13.52.48:842][119]LogLoad: Game class is '3P_GameMode_C'
+[2017.11.07-13.52.48:844][119]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2017.11.07-13.52.48
+[2017.11.07-13.52.48:844][119]LogWorld: Bringing up level for play took: 0.001438
+[2017.11.07-13.52.48:845][119]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-13.52.48:845][119]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-13.52.48:845][119]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-13.52.48:849][119]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-13.52.48:849][119]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled 1.094
+[2017.11.07-13.52.48:857][119]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_8.GameplayWidget_C_8
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-13.52.48:858][119]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_8.GameplayWidget_C_8
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-13.52.48:858][119]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_8.GameplayWidget_C_8
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-13.52.48:858][119]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_8.GameplayWidget_C_8
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-13.52.50:172][274]Set new viewmode: Unlit
+[2017.11.07-13.53.56:983][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="E:/Deadforce 4.17 Vasilis/Saved/Autosaves/Game/Untitled_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.07-13.54.01:502][175]LogSavePackage: Save=4500.49ms
+[2017.11.07-13.54.01:507][175]LogSavePackage: Moving 'E:/Deadforce 4.17 Vasilis/Saved/Untitled_Auto3146D326B4DE57A658CFC198A88D65541.tmp' to 'E:/Deadforce 4.17 Vasilis/Saved/Autosaves/Game/Untitled_Auto3.umap'
+[2017.11.07-13.54.01:523][175]LogSavePackage: Display: Finished SavePackage E:/Deadforce 4.17 Vasilis/Saved/Autosaves/Game/Untitled_Auto3.umap
+[2017.11.07-13.54.01:536][175]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Untitled' took 4.576
+[2017.11.07-13.54.01:536][175]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 4.576
+[2017.11.07-13.54.02:733][310]LogEditorViewport: Clicking Background
+[2017.11.07-13.56.46:345][998]LogEditorViewport: Clicking Background
+[2017.11.07-13.57.13:616][ 99]LogEditorViewport: Clicking Background
+[2017.11.07-13.57.26:419][498]Cmd: SELECT NONE
+[2017.11.07-13.57.34:650][393]Cmd: SELECT NONE
+[2017.11.07-13.57.44:429][477]LogEditorViewport: Clicking Background
+[2017.11.07-13.58.46:835][865]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.07-13.58.48:107][  5]LogEditorViewport: Clicking Background
+[2017.11.07-13.58.50:547][295]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-13.58.51:008][295]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-13.58.51:009][295]PIE: New page: PIE session: Untitled (7 Nov 2017 13:58:51)
+[2017.11.07-13.58.51:011][295]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2017.11.07-13.58.51:063][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052038s)
+[2017.11.07-13.58.51:063][295]LogAIModule: Creating AISystem for world Untitled
+[2017.11.07-13.58.51:064][295]LogPlayLevel: PIE: World Init took: (0.001006s)
+[2017.11.07-13.58.51:064][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.053550s)
+[2017.11.07-13.58.51:106][295]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-13.58.51:136][295]LogInit: FAudioDevice initialized.
+[2017.11.07-13.58.51:176][295]LogLoad: Game class is '3P_GameMode_C'
+[2017.11.07-13.58.51:181][295]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2017.11.07-13.58.51
+[2017.11.07-13.58.51:182][295]LogWorld: Bringing up level for play took: 0.003608
+[2017.11.07-13.58.51:184][295]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-13.58.51:184][295]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-13.58.51:184][295]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-13.58.51:193][295]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-13.58.51:193][295]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled -0.571
+[2017.11.07-13.58.51:203][295]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_9.GameplayWidget_C_9
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-13.58.51:203][295]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_9.GameplayWidget_C_9
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-13.58.51:203][295]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_9.GameplayWidget_C_9
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-13.58.51:203][295]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_9.GameplayWidget_C_9
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-13.58.52:280][415]Set new viewmode: Wireframe
+[2017.11.07-13.58.53:014][503]Set new viewmode: Wireframe
+[2017.11.07-13.58.53:435][553]Set new viewmode: Unlit
+[2017.11.07-13.58.53:929][612]Set new viewmode: Wireframe
+[2017.11.07-13.59.04:438][871]Set new viewmode: Unlit
+[2017.11.07-13.59.04:838][919]Set new viewmode: Lit
+[2017.11.07-13.59.05:678][ 17]Set new viewmode: Lit_DetailLighting
+[2017.11.07-13.59.06:236][ 84]Set new viewmode: Unlit
+[2017.11.07-13.59.06:678][137]Set new viewmode: Lit
+[2017.11.07-13.59.07:053][182]Set new viewmode: Wireframe
+[2017.11.07-13.59.07:403][224]Set new viewmode: Unlit
+[2017.11.07-13.59.07:737][264]Set new viewmode: Wireframe
+[2017.11.07-13.59.07:804][272]Set new viewmode: Unlit
+[2017.11.07-13.59.08:185][317]Set new viewmode: Unlit
+[2017.11.07-13.59.08:185][317]Set new viewmode: Wireframe
+[2017.11.07-13.59.08:664][374]Set new viewmode: Unlit
+[2017.11.07-13.59.09:101][426]Set new viewmode: Wireframe
+[2017.11.07-13.59.09:611][487]Set new viewmode: Unlit
+[2017.11.07-13.59.09:929][525]Set new viewmode: Wireframe
+[2017.11.07-13.59.14:234][ 38]Set new viewmode: Unlit
+[2017.11.07-14.00.14:584][197]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.11.07-14.00.48:888][120]Cmd: SELECT NONE
+[2017.11.07-14.00.51:450][395]Cmd: SELECT NONE
+[2017.11.07-14.01.05:774][ 29]Cmd: SELECT NONE
+[2017.11.07-14.01.23:402][972]LogEditorViewport: Clicking Background
+[2017.11.07-14.01.37:375][564]Cmd: SELECT NONE
+[2017.11.07-14.01.38:671][678]Cmd: SELECT NONE
+[2017.11.07-14.01.41:780][ 28]LogEditorViewport: Clicking Background
+[2017.11.07-14.02.09:853][252]Cmd: SELECT NONE
+[2017.11.07-14.02.51:564][921]Cmd: SELECT NONE
+[2017.11.07-14.03.30:336][472]Cmd: DELETE
+[2017.11.07-14.03.30:336][472]Cmd: ACTOR DELETE
+[2017.11.07-14.03.30:339][472]LogEditorActor: Deleted Actor: Brush
+[2017.11.07-14.03.30:413][472]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2017.11.07-14.03.31:200][558]Cmd: DELETE
+[2017.11.07-14.03.31:200][558]Cmd: ACTOR DELETE
+[2017.11.07-14.03.31:202][558]LogEditorActor: Deleted Actor: Brush
+[2017.11.07-14.03.31:253][558]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2017.11.07-14.03.44:572][122]LogEditorViewport: Clicking Background
+[2017.11.07-14.03.55:501][389]Cmd: SELECT NONE
+[2017.11.07-14.05.28:609][440]Cmd: SELECT NONE
+[2017.11.07-14.05.34:250][104]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2017.11.07-14.05.34:838][168]Cmd: SELECT NONE
+[2017.11.07-14.06.00:442][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="E:/Deadforce 4.17 Vasilis/Saved/Autosaves/Game/Untitled_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.07-14.06.05:340][222]LogSavePackage: Save=4000.24ms
+[2017.11.07-14.06.05:343][222]LogSavePackage: Moving 'E:/Deadforce 4.17 Vasilis/Saved/Untitled_Auto457C7FA5B47DDFC9F38B2BCA5AFAF6322.tmp' to 'E:/Deadforce 4.17 Vasilis/Saved/Autosaves/Game/Untitled_Auto4.umap'
+[2017.11.07-14.06.05:354][222]LogSavePackage: Display: Finished SavePackage E:/Deadforce 4.17 Vasilis/Saved/Autosaves/Game/Untitled_Auto4.umap
+[2017.11.07-14.06.05:366][222]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Untitled' took 4.951
+[2017.11.07-14.06.05:366][222]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 4.951
+[2017.11.07-14.06.27:544][839]Cmd: SELECT NONE
+[2017.11.07-14.06.33:647][563]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.11.07-14.07.39:029][871]Cmd: SELECT NONE
+[2017.11.07-14.07.48:931][985]Cmd: DELETE
+[2017.11.07-14.07.48:931][985]Cmd: ACTOR DELETE
+[2017.11.07-14.07.48:934][985]LogEditorActor: Deleted Actor: Brush
+[2017.11.07-14.07.49:002][985]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2017.11.07-14.08.02:946][542]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-14.08.02:976][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-14.08.02:976][542]PIE: New page: PIE session: Untitled (7 Nov 2017 14:08:02)
+[2017.11.07-14.08.02:977][542]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2017.11.07-14.08.03:005][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027676s)
+[2017.11.07-14.08.03:005][542]LogAIModule: Creating AISystem for world Untitled
+[2017.11.07-14.08.03:006][542]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2017.11.07-14.08.03:006][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.028870s)
+[2017.11.07-14.08.03:030][542]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-14.08.03:048][542]LogInit: FAudioDevice initialized.
+[2017.11.07-14.08.03:082][542]LogLoad: Game class is '3P_GameMode_C'
+[2017.11.07-14.08.03:085][542]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2017.11.07-14.08.03
+[2017.11.07-14.08.03:086][542]LogWorld: Bringing up level for play took: 0.002833
+[2017.11.07-14.08.03:088][542]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-14.08.03:088][542]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-14.08.03:088][542]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-14.08.03:096][542]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-14.08.03:097][542]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled -0.681
+[2017.11.07-14.08.03:106][542]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_10.GameplayWidget_C_10
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-14.08.03:106][542]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_10.GameplayWidget_C_10
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-14.08.03:106][542]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_10.GameplayWidget_C_10
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-14.08.03:106][542]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_10.GameplayWidget_C_10
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-14.08.04:040][651]Set new viewmode: Wireframe
+[2017.11.07-14.08.04:440][699]Set new viewmode: Unlit
+[2017.11.07-14.08.58:053][962]Cmd: DELETE
+[2017.11.07-14.08.58:053][962]Cmd: ACTOR DELETE
+[2017.11.07-14.08.58:056][962]LogEditorActor: Deleted Actor: Brush
+[2017.11.07-14.08.58:056][962]LogEditorActor: Deleted Actor: Brush
+[2017.11.07-14.08.58:056][962]LogEditorActor: Deleted Actor: Brush
+[2017.11.07-14.08.58:056][962]LogEditorActor: Deleted Actor: Brush
+[2017.11.07-14.08.58:108][962]LogEditorActor: Deleted 4 Actors (0.054 secs)
+[2017.11.07-14.09.28:665][488]LogEditorViewport: Clicking Background
+[2017.11.07-14.09.54:100][462]LogEditorViewport: Clicking Background
+[2017.11.07-14.09.56:830][765]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-14.09.57:510][765]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-14.09.57:510][765]PIE: New page: PIE session: Untitled (7 Nov 2017 14:09:57)
+[2017.11.07-14.09.57:512][765]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2017.11.07-14.09.57:568][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055874s)
+[2017.11.07-14.09.57:568][765]LogAIModule: Creating AISystem for world Untitled
+[2017.11.07-14.09.57:569][765]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2017.11.07-14.09.57:569][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.057395s)
+[2017.11.07-14.09.57:596][765]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-14.09.57:617][765]LogInit: FAudioDevice initialized.
+[2017.11.07-14.09.57:657][765]LogLoad: Game class is '3P_GameMode_C'
+[2017.11.07-14.09.57:662][765]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2017.11.07-14.09.57
+[2017.11.07-14.09.57:663][765]LogWorld: Bringing up level for play took: 0.003499
+[2017.11.07-14.09.57:664][765]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-14.09.57:664][765]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-14.09.57:665][765]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-14.09.57:671][765]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-14.09.57:671][765]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled -0.109
+[2017.11.07-14.09.57:679][765]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_11.GameplayWidget_C_11
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-14.09.57:680][765]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_11.GameplayWidget_C_11
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-14.09.57:680][765]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_11.GameplayWidget_C_11
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-14.09.57:680][765]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_11.GameplayWidget_C_11
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-14.09.58:732][881]Set new viewmode: Unlit
+[2017.11.07-14.10.39:179][548]Cmd: DELETE
+[2017.11.07-14.10.39:179][548]Cmd: ACTOR DELETE
+[2017.11.07-14.10.39:181][548]LogEditorActor: Deleted Actor: Brush
+[2017.11.07-14.10.39:236][548]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2017.11.07-14.10.39:745][600]Cmd: DELETE
+[2017.11.07-14.10.39:745][600]Cmd: ACTOR DELETE
+[2017.11.07-14.10.39:748][600]LogEditorActor: Deleted Actor: Brush
+[2017.11.07-14.10.39:799][600]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2017.11.07-14.10.44:410][111]LogEditorViewport: Clicking Background
+[2017.11.07-14.10.47:402][468]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-14.10.47:436][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-14.10.47:436][468]PIE: New page: PIE session: Untitled (7 Nov 2017 14:10:47)
+[2017.11.07-14.10.47:437][468]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2017.11.07-14.10.47:464][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027003s)
+[2017.11.07-14.10.47:464][468]LogAIModule: Creating AISystem for world Untitled
+[2017.11.07-14.10.47:464][468]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2017.11.07-14.10.47:465][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.028087s)
+[2017.11.07-14.10.47:484][468]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-14.10.47:520][468]LogInit: FAudioDevice initialized.
+[2017.11.07-14.10.47:556][468]LogLoad: Game class is '3P_GameMode_C'
+[2017.11.07-14.10.47:558][468]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2017.11.07-14.10.47
+[2017.11.07-14.10.47:558][468]LogWorld: Bringing up level for play took: 0.001616
+[2017.11.07-14.10.47:559][468]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-14.10.47:559][468]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-14.10.47:559][468]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-14.10.47:563][468]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-14.10.47:563][468]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled -0.219
+[2017.11.07-14.10.47:572][468]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_12.GameplayWidget_C_12
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-14.10.47:572][468]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_12.GameplayWidget_C_12
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-14.10.47:572][468]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_12.GameplayWidget_C_12
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-14.10.47:572][468]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_12.GameplayWidget_C_12
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-14.10.48:901][622]Set new viewmode: Unlit
+[2017.11.07-14.12.01:135][ 31]LogEditorViewport: Clicking Background
+[2017.11.07-14.12.06:343][631]LogEditorViewport: Clicking Background
+[2017.11.07-14.12.38:875][350]LogEditorViewport: Clicking Background
+[2017.11.07-14.12.56:652][389]Cmd: SELECT NONE
+[2017.11.07-14.13.03:642][176]LogEditorViewport: Clicking Background
+[2017.11.07-14.13.12:346][159]Cmd: SELECT NONE
+[2017.11.07-14.13.26:637][797]Cmd: SELECT NONE
+[2017.11.07-14.15.01:098][496]Cmd: SELECT NONE
+[2017.11.07-14.15.03:963][830]LogEditorViewport: Clicking Background
+[2017.11.07-14.15.12:202][768]Cmd: SELECT NONE
+[2017.11.07-14.15.57:079][807]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush183)
+[2017.11.07-14.15.57:872][897]Cmd: DELETE
+[2017.11.07-14.15.57:872][897]Cmd: ACTOR DELETE
+[2017.11.07-14.15.57:874][897]LogEditorActor: Deleted Actor: Brush
+[2017.11.07-14.15.57:957][897]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2017.11.07-14.16.00:396][144]Cmd: DELETE
+[2017.11.07-14.16.00:396][144]Cmd: ACTOR DELETE
+[2017.11.07-14.16.00:398][144]LogEditorActor: Deleted Actor: Brush
+[2017.11.07-14.16.00:456][144]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2017.11.07-14.16.01:136][217]Cmd: DELETE
+[2017.11.07-14.16.01:136][217]Cmd: ACTOR DELETE
+[2017.11.07-14.16.01:138][217]LogEditorActor: Deleted Actor: Brush
+[2017.11.07-14.16.01:197][217]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2017.11.07-14.17.08:621][129]Cmd: TRANSACTION UNDO
+[2017.11.07-14.17.08:621][129]LogEditorTransaction: Undo Set actor rotation
+[2017.11.07-14.17.08:645][129]LogActorComponent: ~FComponentReregisterContext: (/Game/Untitled.Untitled:PersistentLevel.BoxBrush50.BrushComponent0) Component already registered.
+[2017.11.07-14.17.08:646][129]LogActorComponent: ~FComponentReregisterContext: (/Game/Untitled.Untitled:PersistentLevel.BoxBrush85.BrushComponent0) Component already registered.
+[2017.11.07-14.17.08:647][129]LogActorComponent: ~FComponentReregisterContext: (/Game/Untitled.Untitled:PersistentLevel.BoxBrush68.BrushComponent0) Component already registered.
+[2017.11.07-14.17.08:649][129]LogActorComponent: ~FComponentReregisterContext: (/Game/Untitled.Untitled:PersistentLevel.BoxBrush21.BrushComponent0) Component already registered.
+[2017.11.07-14.17.08:656][129]LogActorComponent: ~FComponentReregisterContext: (/Game/Untitled.Untitled:PersistentLevel.BoxBrush161.BrushComponent0) Component already registered.
+[2017.11.07-14.17.08:661][129]LogActorComponent: ~FComponentReregisterContext: (/Game/Untitled.Untitled:PersistentLevel.BoxBrush120.BrushComponent0) Component already registered.
+[2017.11.07-14.17.12:587][572]Cmd: TRANSACTION UNDO
+[2017.11.07-14.17.12:587][572]LogEditorTransaction: Undo Set actor rotation
+[2017.11.07-14.17.12:611][572]LogActorComponent: ~FComponentReregisterContext: (/Game/Untitled.Untitled:PersistentLevel.BoxBrush50.BrushComponent0) Component already registered.
+[2017.11.07-14.17.12:612][572]LogActorComponent: ~FComponentReregisterContext: (/Game/Untitled.Untitled:PersistentLevel.BoxBrush85.BrushComponent0) Component already registered.
+[2017.11.07-14.17.12:613][572]LogActorComponent: ~FComponentReregisterContext: (/Game/Untitled.Untitled:PersistentLevel.BoxBrush68.BrushComponent0) Component already registered.
+[2017.11.07-14.17.12:615][572]LogActorComponent: ~FComponentReregisterContext: (/Game/Untitled.Untitled:PersistentLevel.BoxBrush21.BrushComponent0) Component already registered.
+[2017.11.07-14.17.12:622][572]LogActorComponent: ~FComponentReregisterContext: (/Game/Untitled.Untitled:PersistentLevel.BoxBrush161.BrushComponent0) Component already registered.
+[2017.11.07-14.17.12:627][572]LogActorComponent: ~FComponentReregisterContext: (/Game/Untitled.Untitled:PersistentLevel.BoxBrush120.BrushComponent0) Component already registered.
+[2017.11.07-14.17.42:081][758]Cmd: DELETE
+[2017.11.07-14.17.42:081][758]Cmd: ACTOR DELETE
+[2017.11.07-14.17.42:084][758]LogEditorActor: Deleted Actor: Brush
+[2017.11.07-14.17.42:084][758]LogEditorActor: Deleted Actor: Brush
+[2017.11.07-14.17.42:146][758]LogEditorActor: Deleted 2 Actors (0.064 secs)
+[2017.11.07-14.17.47:132][322]Cmd: SELECT NONE
+[2017.11.07-14.17.58:492][607]Cmd: SELECT NONE
+[2017.11.07-14.18.15:504][535]Cmd: SELECT NONE
+[2017.11.07-14.18.26:501][843]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-14.18.27:199][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-14.18.27:199][843]PIE: New page: PIE session: Untitled (7 Nov 2017 14:18:27)
+[2017.11.07-14.18.27:201][843]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2017.11.07-14.18.27:256][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054769s)
+[2017.11.07-14.18.27:256][843]LogAIModule: Creating AISystem for world Untitled
+[2017.11.07-14.18.27:257][843]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2017.11.07-14.18.27:257][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.056115s)
+[2017.11.07-14.18.27:283][843]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-14.18.27:301][843]LogInit: FAudioDevice initialized.
+[2017.11.07-14.18.27:339][843]LogLoad: Game class is '3P_GameMode_C'
+[2017.11.07-14.18.27:346][843]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2017.11.07-14.18.27
+[2017.11.07-14.18.27:347][843]LogWorld: Bringing up level for play took: 0.005124
+[2017.11.07-14.18.27:349][843]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-14.18.27:349][843]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-14.18.27:349][843]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-14.18.27:359][843]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-14.18.27:359][843]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled -0.428
+[2017.11.07-14.18.27:371][843]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_13.GameplayWidget_C_13
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-14.18.27:371][843]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_13.GameplayWidget_C_13
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-14.18.27:371][843]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_13.GameplayWidget_C_13
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-14.18.27:371][843]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_13.GameplayWidget_C_13
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-14.18.28:572][972]Set new viewmode: Unlit
+[2017.11.07-14.19.06:589][402]Cmd: TRANSACTION UNDO
+[2017.11.07-14.19.06:589][402]LogEditorTransaction: Undo Move Actors
+[2017.11.07-14.19.06:614][402]LogActorComponent: ~FComponentReregisterContext: (/Game/Untitled.Untitled:PersistentLevel.BoxBrush68.BrushComponent0) Component already registered.
+[2017.11.07-14.19.06:624][402]LogActorComponent: ~FComponentReregisterContext: (/Game/Untitled.Untitled:PersistentLevel.BoxBrush31.BrushComponent0) Component already registered.
+[2017.11.07-14.19.17:470][606]Cmd: DELETE
+[2017.11.07-14.19.17:470][606]Cmd: ACTOR DELETE
+[2017.11.07-14.19.17:473][606]LogEditorActor: Deleted Actor: Brush
+[2017.11.07-14.19.17:534][606]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2017.11.07-14.20.19:891][650]Cmd: DELETE
+[2017.11.07-14.20.19:891][650]Cmd: ACTOR DELETE
+[2017.11.07-14.20.19:893][650]LogEditorActor: Deleted Actor: Brush
+[2017.11.07-14.20.19:961][650]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2017.11.07-14.20.23:585][ 68]Cmd: TRANSACTION UNDO
+[2017.11.07-14.20.23:585][ 68]LogEditorTransaction: Undo Delete Actors
+[2017.11.07-14.20.23:612][ 68]LogActorComponent: ~FComponentReregisterContext: (/Game/Untitled.Untitled:PersistentLevel.BoxBrush89.BrushComponent0) Component already registered.
+[2017.11.07-14.20.23:620][ 68]LogActorComponent: ~FComponentReregisterContext: (/Game/Untitled.Untitled:PersistentLevel.BoxBrush24.BrushComponent0) Component already registered.
+[2017.11.07-14.20.23:622][ 68]LogActorComponent: ~FComponentReregisterContext: (/Game/Untitled.Untitled:PersistentLevel.BoxBrush32.BrushComponent0) Component already registered.
+[2017.11.07-14.20.23:624][ 68]LogActorComponent: ~FComponentReregisterContext: (/Game/Untitled.Untitled:PersistentLevel.BoxBrush156_172.BrushComponent0) Component already registered.
+[2017.11.07-14.20.24:449][148]Cmd: SELECT NONE
+[2017.11.07-14.20.42:881][294]Cmd: SELECT NONE
+[2017.11.07-14.20.51:550][300]Cmd: SELECT NONE
+[2017.11.07-14.21.02:462][504]Cmd: SELECT NONE
+[2017.11.07-14.21.15:041][918]Cmd: TRANSACTION UNDO
+[2017.11.07-14.21.15:041][918]LogEditorTransaction: Undo Edit X
+[2017.11.07-14.21.15:077][918]LogActorComponent: ~FComponentReregisterContext: (/Game/Untitled.Untitled:PersistentLevel.BoxBrush24.BrushComponent0) Component already registered.
+[2017.11.07-14.21.15:086][918]LogActorComponent: ~FComponentReregisterContext: (/Game/Untitled.Untitled:PersistentLevel.BoxBrush144.BrushComponent0) Component already registered.
+[2017.11.07-14.21.26:735][250]Cmd: SELECT NONE
+[2017.11.07-14.21.36:645][393]Cmd: TRANSACTION UNDO
+[2017.11.07-14.21.36:645][393]LogEditorTransaction: Undo Edit Y
+[2017.11.07-14.21.36:680][393]LogActorComponent: ~FComponentReregisterContext: (/Game/Untitled.Untitled:PersistentLevel.BoxBrush24.BrushComponent0) Component already registered.
+[2017.11.07-14.21.36:689][393]LogActorComponent: ~FComponentReregisterContext: (/Game/Untitled.Untitled:PersistentLevel.BoxBrush144.BrushComponent0) Component already registered.
+[2017.11.07-14.21.47:444][637]Cmd: SELECT NONE
+[2017.11.07-14.21.56:656][671]Cmd: SELECT NONE
+[2017.11.07-14.22.05:042][616]Cmd: SELECT NONE
+[2017.11.07-14.22.18:567][151]Cmd: TRANSACTION UNDO
+[2017.11.07-14.22.18:567][151]LogEditorTransaction: Undo Edit X
+[2017.11.07-14.22.18:602][151]LogActorComponent: ~FComponentReregisterContext: (/Game/Untitled.Untitled:PersistentLevel.BoxBrush24.BrushComponent0) Component already registered.
+[2017.11.07-14.22.18:611][151]LogActorComponent: ~FComponentReregisterContext: (/Game/Untitled.Untitled:PersistentLevel.BoxBrush144.BrushComponent0) Component already registered.
+[2017.11.07-14.22.42:738][883]Cmd: TRANSACTION UNDO
+[2017.11.07-14.22.42:738][883]LogEditorTransaction: Undo Edit X
+[2017.11.07-14.22.42:773][883]LogActorComponent: ~FComponentReregisterContext: (/Game/Untitled.Untitled:PersistentLevel.BoxBrush24.BrushComponent0) Component already registered.
+[2017.11.07-14.22.42:782][883]LogActorComponent: ~FComponentReregisterContext: (/Game/Untitled.Untitled:PersistentLevel.BoxBrush144.BrushComponent0) Component already registered.
+[2017.11.07-14.22.48:919][527]Cmd: SELECT NONE
+[2017.11.07-14.23.04:538][282]LogEditorViewport: Clicking Background
+[2017.11.07-14.23.14:473][417]LogEditorViewport: Clicking Background
+[2017.11.07-14.23.27:585][905]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush179)
+[2017.11.07-14.23.31:481][349]Cmd: SELECT NONE
+[2017.11.07-14.23.33:670][595]Cmd: SELECT NONE
+[2017.11.07-14.23.43:681][698]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush179)
+[2017.11.07-14.23.45:861][938]Cmd: SELECT NONE
+[2017.11.07-14.23.50:374][458]LogEditorViewport: Clicking Background
+[2017.11.07-14.23.54:761][944]Cmd: SELECT NONE
+[2017.11.07-14.24.10:976][855]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-14.24.11:004][855]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-14.24.11:005][855]PIE: New page: PIE session: Untitled (7 Nov 2017 14:24:11)
+[2017.11.07-14.24.11:005][855]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2017.11.07-14.24.11:038][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032862s)
+[2017.11.07-14.24.11:039][855]LogAIModule: Creating AISystem for world Untitled
+[2017.11.07-14.24.11:039][855]LogPlayLevel: PIE: World Init took: (0.000936s)
+[2017.11.07-14.24.11:039][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.034155s)
+[2017.11.07-14.24.11:087][855]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-14.24.11:105][855]LogInit: FAudioDevice initialized.
+[2017.11.07-14.24.11:136][855]LogLoad: Game class is '3P_GameMode_C'
+[2017.11.07-14.24.11:142][855]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2017.11.07-14.24.11
+[2017.11.07-14.24.11:143][855]LogWorld: Bringing up level for play took: 0.004065
+[2017.11.07-14.24.11:145][855]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-14.24.11:145][855]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-14.24.11:145][855]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-14.24.11:150][855]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-14.24.11:150][855]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled -0.645
+[2017.11.07-14.24.11:162][855]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_14.GameplayWidget_C_14
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-14.24.11:162][855]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_14.GameplayWidget_C_14
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-14.24.11:162][855]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_14.GameplayWidget_C_14
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-14.24.11:162][855]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_14.GameplayWidget_C_14
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-14.24.12:263][982]Set new viewmode: Unlit
+[2017.11.07-14.24.46:889][ 38]Cmd: SELECT NONE
+[2017.11.07-14.25.04:519][ 27]LogEditorViewport: Clicking Background
+[2017.11.07-14.25.21:135][970]Cmd: SELECT NONE
+[2017.11.07-14.25.27:800][725]Cmd: SELECT NONE
+[2017.11.07-14.25.27:880][734]Cmd: SELECT NONE
+[2017.11.07-14.25.41:708][346]Cmd: SELECT NONE
+[2017.11.07-14.25.46:123][856]Cmd: SELECT NONE
+[2017.11.07-14.26.55:977][862]Cmd: SELECT NONE
+[2017.11.07-14.27.09:275][400]Cmd: SELECT NONE
+[2017.11.07-14.27.19:459][569]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-14.27.20:150][569]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-14.27.20:151][569]PIE: New page: PIE session: Untitled (7 Nov 2017 14:27:20)
+[2017.11.07-14.27.20:152][569]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2017.11.07-14.27.20:212][569]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059532s)
+[2017.11.07-14.27.20:213][569]LogAIModule: Creating AISystem for world Untitled
+[2017.11.07-14.27.20:213][569]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2017.11.07-14.27.20:213][569]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.061013s)
+[2017.11.07-14.27.20:265][569]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-14.27.20:296][569]LogInit: FAudioDevice initialized.
+[2017.11.07-14.27.20:331][569]LogLoad: Game class is '3P_GameMode_C'
+[2017.11.07-14.27.20:334][569]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2017.11.07-14.27.20
+[2017.11.07-14.27.20:334][569]LogWorld: Bringing up level for play took: 0.002011
+[2017.11.07-14.27.20:335][569]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-14.27.20:335][569]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-14.27.20:335][569]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-14.27.20:339][569]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-14.27.20:339][569]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled 0.539
+[2017.11.07-14.27.20:343][569]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_15.GameplayWidget_C_15
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-14.27.20:343][569]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_15.GameplayWidget_C_15
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-14.27.20:344][569]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_15.GameplayWidget_C_15
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-14.27.20:344][569]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_15.GameplayWidget_C_15
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-14.27.21:610][710]Set new viewmode: Unlit
+[2017.11.07-14.28.44:701][ 75]Cmd: SELECT NONE
+[2017.11.07-14.28.47:009][341]Cmd: DELETE
+[2017.11.07-14.28.47:009][341]Cmd: ACTOR DELETE
+[2017.11.07-14.28.47:011][341]LogEditorActor: Deleted Actor: Brush
+[2017.11.07-14.28.47:076][341]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2017.11.07-14.32.43:757][832]Cmd: SELECT NONE
+[2017.11.07-14.33.09:372][778]Cmd: SELECT NONE
+[2017.11.07-14.34.18:289][513]Cmd: SELECT NONE
+[2017.11.07-14.35.13:302][515]Cmd: DELETE
+[2017.11.07-14.35.13:302][515]Cmd: ACTOR DELETE
+[2017.11.07-14.35.13:305][515]LogEditorActor: Deleted Actor: Brush
+[2017.11.07-14.35.13:305][515]LogEditorActor: Deleted Actor: Brush
+[2017.11.07-14.35.13:305][515]LogEditorActor: Deleted Actor: Brush
+[2017.11.07-14.35.13:305][515]LogEditorActor: Deleted Actor: Brush
+[2017.11.07-14.35.13:305][515]LogEditorActor: Deleted Actor: Brush
+[2017.11.07-14.35.13:305][515]LogEditorActor: Deleted Actor: Brush
+[2017.11.07-14.35.13:305][515]LogEditorActor: Deleted Actor: Brush
+[2017.11.07-14.35.13:419][515]LogEditorActor: Deleted 7 Actors (0.116 secs)
+[2017.11.07-14.35.48:980][280]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-14.35.49:009][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-14.35.49:009][280]PIE: New page: PIE session: Untitled (7 Nov 2017 14:35:49)
+[2017.11.07-14.35.49:010][280]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2017.11.07-14.35.49:055][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045112s)
+[2017.11.07-14.35.49:056][280]LogAIModule: Creating AISystem for world Untitled
+[2017.11.07-14.35.49:056][280]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2017.11.07-14.35.49:056][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.046403s)
+[2017.11.07-14.35.49:081][280]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-14.35.49:099][280]LogInit: FAudioDevice initialized.
+[2017.11.07-14.35.49:136][280]LogLoad: Game class is '3P_GameMode_C'
+[2017.11.07-14.35.49:140][280]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2017.11.07-14.35.49
+[2017.11.07-14.35.49:141][280]LogWorld: Bringing up level for play took: 0.003323
+[2017.11.07-14.35.49:142][280]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-14.35.49:142][280]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-14.35.49:142][280]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-14.35.49:147][280]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-14.35.49:147][280]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled -0.679
+[2017.11.07-14.35.49:164][280]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_16.GameplayWidget_C_16
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-14.35.49:164][280]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_16.GameplayWidget_C_16
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-14.35.49:164][280]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_16.GameplayWidget_C_16
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-14.35.49:165][280]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_16.GameplayWidget_C_16
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-14.35.50:582][444]Set new viewmode: Unlit
+[2017.11.07-14.36.12:137][990]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.11.07-14.36.26:021][463]Cmd: SELECT NONE
+[2017.11.07-14.36.27:496][631]LogEditorViewport: Clicking on Actor (LMB): Brush (Cone Brush)
+[2017.11.07-14.36.45:118][690]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-14.36.45:807][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-14.36.45:808][690]PIE: New page: PIE session: Untitled (7 Nov 2017 14:36:45)
+[2017.11.07-14.36.45:809][690]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2017.11.07-14.36.45:877][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067915s)
+[2017.11.07-14.36.45:878][690]LogAIModule: Creating AISystem for world Untitled
+[2017.11.07-14.36.45:878][690]LogPlayLevel: PIE: World Init took: (0.000855s)
+[2017.11.07-14.36.45:878][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.069229s)
+[2017.11.07-14.36.45:903][690]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-14.36.45:920][690]LogInit: FAudioDevice initialized.
+[2017.11.07-14.36.45:956][690]LogLoad: Game class is '3P_GameMode_C'
+[2017.11.07-14.36.45:964][690]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2017.11.07-14.36.45
+[2017.11.07-14.36.45:965][690]LogWorld: Bringing up level for play took: 0.006781
+[2017.11.07-14.36.45:967][690]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-14.36.45:967][690]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-14.36.45:967][690]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-14.36.45:977][690]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-14.36.45:977][690]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled 0.148
+[2017.11.07-14.36.45:989][690]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_17.GameplayWidget_C_17
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-14.36.45:989][690]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_17.GameplayWidget_C_17
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-14.36.45:989][690]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_17.GameplayWidget_C_17
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-14.36.45:989][690]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_17.GameplayWidget_C_17
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-14.36.46:902][781]Set new viewmode: Unlit
+[2017.11.07-14.37.27:976][311]Cmd: SELECT NONE
+[2017.11.07-14.37.31:594][688]Cmd: TRANSACTION UNDO
+[2017.11.07-14.37.31:594][688]LogEditorTransaction: Undo Select Brush Surface
+[2017.11.07-14.37.33:290][887]Cmd: TRANSACTION UNDO
+[2017.11.07-14.37.33:290][887]LogEditorTransaction: Undo Select None
+[2017.11.07-14.37.34:093][974]Cmd: TRANSACTION UNDO
+[2017.11.07-14.37.34:093][974]LogEditorTransaction: Undo Select Brush Surface
+[2017.11.07-14.38.14:373][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="E:/Deadforce 4.17 Vasilis/Saved/Autosaves/Game/Untitled_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.07-14.38.25:130][628]LogSavePackage: Save=10734.63ms
+[2017.11.07-14.38.25:143][628]LogSavePackage: Moving 'E:/Deadforce 4.17 Vasilis/Saved/Untitled_Auto590CC2569442900A88F8D0B9531599585.tmp' to 'E:/Deadforce 4.17 Vasilis/Saved/Autosaves/Game/Untitled_Auto5.umap'
+[2017.11.07-14.38.25:156][628]LogSavePackage: Display: Finished SavePackage E:/Deadforce 4.17 Vasilis/Saved/Autosaves/Game/Untitled_Auto5.umap
+[2017.11.07-14.38.25:169][628]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Untitled' took 10.846
+[2017.11.07-14.38.25:169][628]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 10.846
+[2017.11.07-14.39.15:355][582]Cmd: SELECT NONE
+[2017.11.07-14.39.18:139][893]Cmd: SELECT NONE
+[2017.11.07-14.39.20:230][143]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.07-14.39.21:154][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.07-14.39.21:155][143]PIE: New page: PIE session: Untitled (7 Nov 2017 14:39:21)
+[2017.11.07-14.39.21:156][143]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Untitled
+[2017.11.07-14.39.21:226][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069379s)
+[2017.11.07-14.39.21:227][143]LogAIModule: Creating AISystem for world Untitled
+[2017.11.07-14.39.21:227][143]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2017.11.07-14.39.21:227][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Untitled.Untitled to /Game/UEDPIE_0_Untitled.Untitled (0.070737s)
+[2017.11.07-14.39.21:248][143]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.07-14.39.21:265][143]LogInit: FAudioDevice initialized.
+[2017.11.07-14.39.21:300][143]LogLoad: Game class is '3P_GameMode_C'
+[2017.11.07-14.39.21:308][143]LogWorld: Bringing World /Game/UEDPIE_0_Untitled.Untitled up for play (max tick rate 0) at 2017.11.07-14.39.21
+[2017.11.07-14.39.21:309][143]LogWorld: Bringing up level for play took: 0.006716
+[2017.11.07-14.39.21:311][143]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-14.39.21:311][143]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.07-14.39.21:311][143]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-14.39.21:320][143]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.07-14.39.21:321][143]PIE: Play in editor start time for /Game/UEDPIE_0_Untitled -0.513
+[2017.11.07-14.39.21:331][143]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_18.GameplayWidget_C_18
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-14.39.21:331][143]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_18.GameplayWidget_C_18
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-14.39.21:332][143]LogScript: Warning: Accessed None trying to read property PlayerCharacter
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_18.GameplayWidget_C_18
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0014
+[2017.11.07-14.39.21:332][143]LogScript: Warning: Accessed None
+	GameplayWidget_C /Engine/Transient.UnrealEdEngine_0:3P_GameInstance_C_18.GameplayWidget_C_18
+	Function /Game/HUD/GameplayWidget.GameplayWidget_C:GetWeaponOverheatTextVisibility:0029
+[2017.11.07-14.39.22:494][272]Set new viewmode: Unlit
+[2017.11.07-14.40.27:169][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="E:/Deadforce 4.17 Vasilis/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.07-14.40.32:609][927]LogSavePackage: Save=5391.32ms
+[2017.11.07-14.40.32:612][927]LogSavePackage: Moving 'E:/Deadforce 4.17 Vasilis/Saved/Untitled0333FC1E4C3B255B5AA510BD0369F11B.tmp' to 'E:/Deadforce 4.17 Vasilis/Content/Untitled.umap'
+[2017.11.07-14.40.32:644][927]LogSavePackage: Display: Finished SavePackage E:/Deadforce 4.17 Vasilis/Content/Untitled.umap
+[2017.11.07-14.40.33:836][927]LogFileHelpers: Saving map 'Untitled' took 6.799
+[2017.11.07-14.42.07:586][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vasilis/Untitled" FILE="E:/Deadforce 4.17 Vasilis/Content/Vasilis/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.07-14.42.12:136][ 18]LogSavePackage: Save=4517.28ms
+[2017.11.07-14.42.12:140][ 18]LogSavePackage: Moving 'E:/Deadforce 4.17 Vasilis/Saved/Untitled20D3A29E4E53B7FC70807CACA4E773E6.tmp' to 'E:/Deadforce 4.17 Vasilis/Content/Vasilis/Untitled.umap'
+[2017.11.07-14.42.12:166][ 18]LogSavePackage: Display: Finished SavePackage E:/Deadforce 4.17 Vasilis/Content/Vasilis/Untitled.umap
+[2017.11.07-14.42.12:615][ 18]LogFileHelpers: Saving map 'Untitled' took 5.145
+[2017.11.07-14.42.17:080][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vasilis/Maps/Untitled" FILE="E:/Deadforce 4.17 Vasilis/Content/Vasilis/Maps/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.07-14.42.20:816][502]LogSavePackage: Save=3715.65ms
+[2017.11.07-14.42.20:818][502]LogSavePackage: Moving 'E:/Deadforce 4.17 Vasilis/Saved/Untitled1FC2532B49F66D6D51362D9B405A0E3A.tmp' to 'E:/Deadforce 4.17 Vasilis/Content/Vasilis/Maps/Untitled.umap'
+[2017.11.07-14.42.20:841][502]LogSavePackage: Display: Finished SavePackage E:/Deadforce 4.17 Vasilis/Content/Vasilis/Maps/Untitled.umap
+[2017.11.07-14.42.20:920][502]LogFileHelpers: Saving map 'Untitled' took 3.956
+[2017.11.07-14.42.39:410][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vasilis/Maps/Vasilismapsection" FILE="E:/Deadforce 4.17 Vasilis/Content/Vasilis/Maps/Vasilismapsection.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.07-14.42.43:838][671]LogSavePackage: Save=4409.84ms
+[2017.11.07-14.42.43:849][671]LogSavePackage: Moving 'E:/Deadforce 4.17 Vasilis/Saved/Vasilismapsection0B33926C41D6B8158266DCA94018F197.tmp' to 'E:/Deadforce 4.17 Vasilis/Content/Vasilis/Maps/Vasilismapsection.umap'
+[2017.11.07-14.42.43:875][671]LogSavePackage: Display: Finished SavePackage E:/Deadforce 4.17 Vasilis/Content/Vasilis/Maps/Vasilismapsection.umap
+[2017.11.07-14.42.44:409][671]LogFileHelpers: Saving map 'Vasilismapsection' took 5.114
+[2017.11.07-14.42.48:936][ 47]Cmd: QUIT_EDITOR
+[2017.11.07-14.42.49:466][ 47]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.07-14.42.49:499][ 47]LogExit: Preparing to exit.
+[2017.11.07-14.42.50:186][ 47]LogExit: Editor shut down
+[2017.11.07-14.42.50:201][ 47]LogExit: Transaction tracking system shut down
+[2017.11.07-14.42.55:537][ 47]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.11.07-14.42.55:537][ 47]LogDirectoryWatcher: A directory notification for 'E:/Deadforce 4.17 Vasilis/Content/' was aborted.
+[2017.11.07-14.42.55:538][ 47]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.11.07-14.42.55:538][ 47]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.11.07-14.42.55:538][ 47]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.11.07-14.42.55:678][ 47]LogExit: Object subsystem successfully closed.
+[2017.11.07-14.42.55:701][ 47]LogD3D11RHI: Shutdown
+[2017.11.07-14.42.55:702][ 47]LogD3D11RHI: CleanupD3DDevice
+[2017.11.07-14.42.55:782][ 47]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.11.07-14.42.55:813][ 47]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (536)
+[2017.11.07-14.42.55:814][ 47]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (534)
+[2017.11.07-14.42.55:814][ 47]LogModuleManager: Shutting down and abandoning module NewLevelDialog (532)
+[2017.11.07-14.42.55:814][ 47]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.11.07-14.42.55:814][ 47]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.11.07-14.42.55:814][ 47]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.11.07-14.42.55:814][ 47]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.11.07-14.42.55:815][ 47]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.11.07-14.42.55:815][ 47]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.11.07-14.42.55:815][ 47]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.11.07-14.42.55:815][ 47]LogDirectoryWatcher: A directory notification for 'E:/Deadforce 4.17 Vasilis/Content/Collections/' was aborted.
+[2017.11.07-14.42.55:815][ 47]LogDirectoryWatcher: A directory notification for 'E:/Deadforce 4.17 Vasilis/Content/Developers/3kapov20/Collections/' was aborted.
+[2017.11.07-14.42.55:815][ 47]LogDirectoryWatcher: A directory notification for 'E:/Deadforce 4.17 Vasilis/Saved/Collections/' was aborted.
+[2017.11.07-14.42.55:815][ 47]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.11.07-14.42.55:815][ 47]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.11.07-14.42.55:815][ 47]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.11.07-14.42.55:815][ 47]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.11.07-14.42.55:815][ 47]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.11.07-14.42.55:815][ 47]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.11.07-14.42.55:815][ 47]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.11.07-14.42.55:815][ 47]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.11.07-14.42.55:815][ 47]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.11.07-14.42.55:815][ 47]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.11.07-14.42.55:815][ 47]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.11.07-14.42.55:815][ 47]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.11.07-14.42.55:815][ 47]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.11.07-14.42.55:815][ 47]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.11.07-14.42.55:815][ 47]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.11.07-14.42.55:815][ 47]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.11.07-14.42.55:816][ 47]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.11.07-14.42.55:816][ 47]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.11.07-14.42.55:816][ 47]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.11.07-14.42.55:816][ 47]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.11.07-14.42.55:816][ 47]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.11.07-14.42.55:816][ 47]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.11.07-14.42.55:816][ 47]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.11.07-14.42.55:816][ 47]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.11.07-14.42.55:816][ 47]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.11.07-14.42.55:816][ 47]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.11.07-14.42.55:816][ 47]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.11.07-14.42.55:816][ 47]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.11.07-14.42.55:816][ 47]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.11.07-14.42.55:816][ 47]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.11.07-14.42.55:816][ 47]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.11.07-14.42.55:816][ 47]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.11.07-14.42.55:816][ 47]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.11.07-14.42.55:816][ 47]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.11.07-14.42.55:816][ 47]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.11.07-14.42.55:816][ 47]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.11.07-14.42.55:816][ 47]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.11.07-14.42.55:816][ 47]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.11.07-14.42.56:497][ 47]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.11.07-14.42.56:497][ 47]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.11.07-14.42.56:497][ 47]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.11.07-14.42.56:497][ 47]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.11.07-14.42.56:497][ 47]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.11.07-14.42.56:497][ 47]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.11.07-14.42.56:497][ 47]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.11.07-14.42.56:497][ 47]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.11.07-14.42.56:497][ 47]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.11.07-14.42.56:497][ 47]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.11.07-14.42.56:498][ 47]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.11.07-14.42.56:498][ 47]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.11.07-14.42.56:498][ 47]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.11.07-14.42.56:498][ 47]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.11.07-14.42.56:498][ 47]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.11.07-14.42.56:498][ 47]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.11.07-14.42.56:498][ 47]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.11.07-14.42.56:498][ 47]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.11.07-14.42.56:499][ 47]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.11.07-14.42.56:499][ 47]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.11.07-14.42.56:499][ 47]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.11.07-14.42.56:499][ 47]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.11.07-14.42.56:499][ 47]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.11.07-14.42.56:499][ 47]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.11.07-14.42.56:542][ 47]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.11.07-14.42.56:542][ 47]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.11.07-14.42.56:542][ 47]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.11.07-14.42.56:542][ 47]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.11.07-14.42.56:542][ 47]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.11.07-14.42.56:542][ 47]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.11.07-14.42.56:542][ 47]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.11.07-14.42.56:543][ 47]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.11.07-14.42.56:543][ 47]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.11.07-14.42.56:543][ 47]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.11.07-14.42.56:548][ 47]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.11.07-14.42.56:548][ 47]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.11.07-14.42.56:548][ 47]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.11.07-14.42.56:548][ 47]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.11.07-14.42.56:549][ 47]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.11.07-14.42.56:549][ 47]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.11.07-14.42.56:549][ 47]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.11.07-14.42.56:549][ 47]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.11.07-14.42.56:549][ 47]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.11.07-14.42.56:549][ 47]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.11.07-14.42.56:549][ 47]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.11.07-14.42.56:549][ 47]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.11.07-14.42.56:549][ 47]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.11.07-14.42.56:549][ 47]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.11.07-14.42.56:549][ 47]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.11.07-14.42.56:549][ 47]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.11.07-14.42.56:549][ 47]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.11.07-14.42.56:549][ 47]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.11.07-14.42.56:550][ 47]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.11.07-14.42.56:550][ 47]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.11.07-14.42.56:550][ 47]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.11.07-14.42.56:611][ 47]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.11.07-14.42.56:611][ 47]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.11.07-14.42.56:611][ 47]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.11.07-14.42.56:611][ 47]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.11.07-14.42.56:611][ 47]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.11.07-14.42.56:611][ 47]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.11.07-14.42.56:611][ 47]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.11.07-14.42.56:611][ 47]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.11.07-14.42.56:611][ 47]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.11.07-14.42.56:611][ 47]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.11.07-14.42.56:611][ 47]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.11.07-14.42.56:612][ 47]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.11.07-14.42.56:612][ 47]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.11.07-14.42.56:612][ 47]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.11.07-14.42.56:612][ 47]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.11.07-14.42.56:612][ 47]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.11.07-14.42.56:612][ 47]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.11.07-14.42.56:612][ 47]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.11.07-14.42.56:612][ 47]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.11.07-14.42.56:612][ 47]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.11.07-14.42.56:612][ 47]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.11.07-14.42.56:612][ 47]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.11.07-14.42.56:612][ 47]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.11.07-14.42.56:612][ 47]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.11.07-14.42.56:612][ 47]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.11.07-14.42.56:613][ 47]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.11.07-14.42.56:613][ 47]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.11.07-14.42.56:613][ 47]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.11.07-14.42.56:613][ 47]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.11.07-14.42.56:613][ 47]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.11.07-14.42.56:613][ 47]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.11.07-14.42.56:613][ 47]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.11.07-14.42.56:614][ 47]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.11.07-14.42.56:614][ 47]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.11.07-14.42.56:614][ 47]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.11.07-14.42.56:615][ 47]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.11.07-14.42.56:615][ 47]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.11.07-14.42.56:615][ 47]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.11.07-14.42.56:615][ 47]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.11.07-14.42.56:615][ 47]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.11.07-14.42.56:615][ 47]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.11.07-14.42.56:615][ 47]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.11.07-14.42.56:615][ 47]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.11.07-14.42.56:716][ 47]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.11.07-14.42.56:816][ 47]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.11.07-14.42.56:816][ 47]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.11.07-14.42.56:816][ 47]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.11.07-14.42.56:816][ 47]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.11.07-14.42.56:816][ 47]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.11.07-14.42.56:816][ 47]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.11.07-14.42.56:819][ 47]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.11.07-14.42.56:819][ 47]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.11.07-14.42.56:819][ 47]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.11.07-14.42.56:819][ 47]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.11.07-14.42.56:819][ 47]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.11.07-14.42.56:819][ 47]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.11.07-14.42.56:819][ 47]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.11.07-14.42.56:819][ 47]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.11.07-14.42.56:819][ 47]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.11.07-14.42.56:819][ 47]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.11.07-14.42.56:819][ 47]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.11.07-14.42.56:819][ 47]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.11.07-14.42.56:820][ 47]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.11.07-14.42.56:820][ 47]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.11.07-14.42.56:820][ 47]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.11.07-14.42.56:820][ 47]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.11.07-14.42.56:820][ 47]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.11.07-14.42.56:820][ 47]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.11.07-14.42.56:820][ 47]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.11.07-14.42.56:820][ 47]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.11.07-14.42.56:820][ 47]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.11.07-14.42.56:820][ 47]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.11.07-14.42.56:820][ 47]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.11.07-14.42.56:820][ 47]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.11.07-14.42.56:829][ 47]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.11.07-14.42.56:829][ 47]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.11.07-14.42.56:829][ 47]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.11.07-14.42.56:829][ 47]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.11.07-14.42.56:829][ 47]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.11.07-14.42.56:829][ 47]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.11.07-14.42.56:829][ 47]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.11.07-14.42.56:829][ 47]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.11.07-14.42.56:829][ 47]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.11.07-14.42.56:829][ 47]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.11.07-14.42.56:829][ 47]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.11.07-14.42.56:829][ 47]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.11.07-14.42.56:829][ 47]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.11.07-14.42.56:830][ 47]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.11.07-14.42.56:830][ 47]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.11.07-14.42.56:830][ 47]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.11.07-14.42.56:832][ 47]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.11.07-14.42.56:901][ 47]LogDerivedDataCache: Shutdown
+[2017.11.07-14.42.56:901][ 47]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.11.07-14.42.56:901][ 47]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.11.07-14.42.56:901][ 47]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.11.07-14.42.56:901][ 47]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.11.07-14.42.56:901][ 47]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.11.07-14.42.56:901][ 47]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.11.07-14.42.56:901][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.11.07-14.42.56:901][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.11.07-14.42.56:901][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.11.07-14.42.56:901][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.11.07-14.42.56:902][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.11.07-14.42.56:902][ 47]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.11.07-14.42.56:902][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.11.07-14.42.56:902][ 47]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.11.07-14.42.56:902][ 47]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.11.07-14.42.56:902][ 47]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.11.07-14.42.56:902][ 47]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.11.07-14.42.56:902][ 47]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.11.07-14.42.56:902][ 47]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.11.07-14.42.56:902][ 47]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.11.07-14.42.56:902][ 47]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.11.07-14.42.56:902][ 47]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.11.07-14.42.56:902][ 47]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.11.07-14.42.56:902][ 47]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.11.07-14.42.56:902][ 47]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.11.07-14.42.56:902][ 47]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.11.07-14.42.56:902][ 47]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.11.07-14.42.56:902][ 47]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.11.07-14.42.56:902][ 47]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.11.07-14.42.56:903][ 47]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.11.07-14.42.56:903][ 47]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.11.07-14.42.56:903][ 47]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.11.07-14.42.56:903][ 47]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.11.07-14.42.56:903][ 47]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.11.07-14.42.56:903][ 47]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.11.07-14.42.56:903][ 47]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.11.07-14.42.56:903][ 47]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.11.07-14.42.56:903][ 47]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.11.07-14.42.56:903][ 47]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.11.07-14.42.56:903][ 47]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.11.07-14.42.56:903][ 47]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.11.07-14.42.56:903][ 47]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.11.07-14.42.56:903][ 47]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.11.07-14.42.56:903][ 47]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.11.07-14.42.56:903][ 47]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.11.07-14.42.56:903][ 47]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.11.07-14.42.56:903][ 47]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.11.07-14.42.56:904][ 47]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.11.07-14.42.56:904][ 47]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.11.07-14.42.56:904][ 47]LogOnline: Display: Unloading online subsystem: NULL
+[2017.11.07-14.42.56:904][ 47]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.11.07-14.42.56:904][ 47]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.11.07-14.42.56:904][ 47]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.11.07-14.42.56:904][ 47]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD784AA26-4DBF-CBE6-66E6-F4A1F48F0980%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=da6c4c4c4f67b1fed242edb4dce7f4ab%7C%7C345cc173-3c81-4d28-a754-2200469aaad2&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.07-14.42.56:926][ 47]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.11.07-14.42.56:930][ 47]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.11.07-14.42.56:930][ 47]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.11.07-14.42.56:930][ 47]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.11.07-14.42.56:930][ 47]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.11.07-14.42.56:931][ 47]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.11.07-14.42.56:931][ 47]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.11.07-14.42.56:931][ 47]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.11.07-14.42.56:933][ 47]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.11.07-14.42.56:933][ 47]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.11.07-14.42.56:933][ 47]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.11.07-14.42.56:933][ 47]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.11.07-14.42.56:933][ 47]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.11.07-14.42.56:934][ 47]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.11.07-14.42.56:934][ 47]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.11.07-14.42.56:934][ 47]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.11.07-14.42.56:934][ 47]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.11.07-14.42.56:934][ 47]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.11.07-14.42.56:934][ 47]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.11.07-14.42.56:941][ 47]LogExit: Exiting.
+[2017.11.07-14.42.57:210][ 47]Log file closed, 11/07/17 14:42:57
